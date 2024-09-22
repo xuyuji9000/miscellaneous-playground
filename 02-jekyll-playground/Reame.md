@@ -1,0 +1,1 @@
+This folder contains the learning example of *Jekyll*.
