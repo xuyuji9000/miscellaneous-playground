@@ -1,0 +1,1 @@
+The folder documents the learning from book < [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](https://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/125983588X/) >.
