@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>HTML5 Canvas arc() Method</h1>
+
+<canvas 
+    id="myCanvas" 
+    width="200" 
+    height="200" 
+>
+</canvas>
+
+<script>
+const canvas = document.getElementById('myCanvas');
+const ctx = canvas.getContext('2d');
+ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+ctx.stroke();
+</script>
+
+</body>
+</html>

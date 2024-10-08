@@ -1,0 +1,1 @@
+This folder contains an example of drawing a circle with the canvas element.
