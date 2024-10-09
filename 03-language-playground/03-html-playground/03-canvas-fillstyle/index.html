@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>HTML5 Canvas strokeStyle Example</h1>
+<h1>HTML5 Canvas fillStyle Example</h1>
 
 <canvas 
     id="myCanvas" 
@@ -15,16 +15,16 @@ const canvas = document.getElementById('myCanvas');
 const ctx = canvas.getContext('2d');
 
 // Red rectangle
-ctx.strokeStyle = "rgb(255, 0, 0)";
-ctx.strokeRect(20, 20, 150, 100);
+ctx.fillStyle = "rgb(255, 0, 0)";
+ctx.fillRect(20, 20, 150, 100);
 
 // Green rectangle
-ctx.strokeStyle = "rgb(0, 255, 0)";
-ctx.strokeRect(190, 20, 150, 100);
+ctx.fillStyle = "rgb(0, 255, 0)";
+ctx.fillRect(190, 20, 150, 100);
 
 // Blue rectangle
-ctx.strokeStyle = "rgb(0, 0, 255)";
-ctx.strokeRect(360, 20, 150, 100);
+ctx.fillStyle = "rgb(0, 0, 255)";
+ctx.fillRect(360, 20, 150, 100);
 </script>
 </body>
 </html>
