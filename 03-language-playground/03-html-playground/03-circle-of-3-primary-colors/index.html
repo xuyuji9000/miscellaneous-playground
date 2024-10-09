@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Color Playground</title>
+</head>
+<body>
+    <canvas id="myCanvas" width="800" height="800"></canvas>
+    <script>
+        var canvas = document.getElementById('myCanvas');
+        var context = canvas.getContext('2d');
+        var centerX = canvas.width / 2;
+        var centerY = canvas.height / 2;
+        var radius = 200;
+
+        context.beginPath();
+        context.moveTo(centerX, centerY);
+        context.arc(centerX, centerY, radius, 0, Math.PI * 2/3, false);
+        context.closePath();
+
+        context.fillStyle = 'rgb(255, 0, 0)';
+        context.fill();
+
+        context.beginPath();
+        context.moveTo(centerX, centerY);
+        context.arc(centerX, centerY, radius, Math.PI * 2 / 3, Math.PI * 4 / 3, false);
+        context.closePath();
+
+        context.fillStyle = 'rgb(0, 255, 0)';
+        context.fill();
+
+        context.beginPath();
+        context.moveTo(centerX, centerY);
+        context.arc(centerX, centerY, radius, Math.PI * 4 / 3, Math.PI * 6 / 3, false);
+        context.closePath();
+
+        context.fillStyle = 'rgb(0, 0, 255)';
+        context.fill();
+    </script>
+</body>
+</html>
