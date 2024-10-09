@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>HTML5 Canvas strokeStyle Example</h1>
+
+<canvas 
+    id="myCanvas" 
+    width="200" 
+    height="200" 
+>
+</canvas>
+
+<script>
+const canvas = document.getElementById('myCanvas');
+const ctx = canvas.getContext('2d');
+ctx.strokeStysle = "rgb(255, 0, 0)";
+ctx.strokeRect(20, 20, 150, 100);
+</script>
+</body>
+</html>
