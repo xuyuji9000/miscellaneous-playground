@@ -15,20 +15,59 @@ const canvas = document.getElementById('myCanvas');
 const ctx = canvas.getContext('2d');
 
 ctx.font = '15px Arial';
-ctx.fillText('Primary Colors', 20, 70);
 
 
+
+
+
+
+const COLOR_RECTANGLE_WIDTH               = 150
+const COLOR_RECTANGLE_HEIGHT              = 100
+const COLOR_RECTANGLE_HORIZONTAL_SPACING  = 170
+const COLOR_RECTANGLE_VERTICAL_SPACING    = 20
+
+
+
+ctx.fillText('Primary Colors', 20,  COLOR_RECTANGLE_VERTICAL_SPACING
+                                    +COLOR_RECTANGLE_HEIGHT/2);
+
+primaryColors_y = COLOR_RECTANGLE_VERTICAL_SPACING
+primaryColors_x = 140
 // Red rectangle
 ctx.fillStyle = "rgb(255, 0, 0)";
-ctx.fillRect(140, 20, 150, 100);
+ctx.fillRect(primaryColors_x+170*0, primaryColors_y, COLOR_RECTANGLE_WIDTH, COLOR_RECTANGLE_HEIGHT);
 
 // Green rectangle
 ctx.fillStyle = "rgb(0, 255, 0)";
-ctx.fillRect(310, 20, 150, 100);
+ctx.fillRect(primaryColors_x+170*1, primaryColors_y, COLOR_RECTANGLE_WIDTH, COLOR_RECTANGLE_HEIGHT);
 
 // Blue rectangle
 ctx.fillStyle = "rgb(0, 0, 255)";
-ctx.fillRect(480, 20, 150, 100);
+ctx.fillRect(primaryColors_x+170*2, primaryColors_y, COLOR_RECTANGLE_WIDTH, COLOR_RECTANGLE_HEIGHT);
+
+
+ctx.fillText('Secondary Colors', 20,    COLOR_RECTANGLE_VERTICAL_SPACING
+                                        + COLOR_RECTANGLE_HEIGHT
+                                        + COLOR_RECTANGLE_VERTICAL_SPACING
+                                        + COLOR_RECTANGLE_HEIGHT/2);
+
+secondaryColors_y = COLOR_RECTANGLE_VERTICAL_SPACING
+                    + COLOR_RECTANGLE_HEIGHT
+                    + COLOR_RECTANGLE_VERTICAL_SPACING
+secondaryColors_x   = primaryColors_x
+// Yellow rectangle
+ctx.fillStyle = "rgb(255, 255, 0)";
+ctx.fillRect(secondaryColors_x+170*0, secondaryColors_y, COLOR_RECTANGLE_WIDTH, COLOR_RECTANGLE_HEIGHT);
+
+// Cyan rectangle
+ctx.fillStyle = "rgb(0, 255, 255)";
+ctx.fillRect(secondaryColors_x+170*1, secondaryColors_y, COLOR_RECTANGLE_WIDTH, COLOR_RECTANGLE_HEIGHT);
+
+
+// Magenta rectangle
+ctx.fillStyle = "rgb(255, 0, 255)";
+ctx.fillRect(secondaryColors_x+170*2, secondaryColors_y, COLOR_RECTANGLE_WIDTH, COLOR_RECTANGLE_HEIGHT);
+
 </script>
 </body>
 </html>
