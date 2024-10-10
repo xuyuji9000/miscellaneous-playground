@@ -14,17 +14,21 @@
 const canvas = document.getElementById('myCanvas');
 const ctx = canvas.getContext('2d');
 
+ctx.font = '15px Arial';
+ctx.fillText('Primary Colors', 20, 70);
+
+
 // Red rectangle
 ctx.fillStyle = "rgb(255, 0, 0)";
-ctx.fillRect(20, 20, 150, 100);
+ctx.fillRect(140, 20, 150, 100);
 
 // Green rectangle
 ctx.fillStyle = "rgb(0, 255, 0)";
-ctx.fillRect(190, 20, 150, 100);
+ctx.fillRect(310, 20, 150, 100);
 
 // Blue rectangle
 ctx.fillStyle = "rgb(0, 0, 255)";
-ctx.fillRect(360, 20, 150, 100);
+ctx.fillRect(480, 20, 150, 100);
 </script>
 </body>
 </html>
