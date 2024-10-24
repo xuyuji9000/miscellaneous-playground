@@ -1,0 +1,1 @@
+This folder contains an example of Adapter Pattern in Python.
