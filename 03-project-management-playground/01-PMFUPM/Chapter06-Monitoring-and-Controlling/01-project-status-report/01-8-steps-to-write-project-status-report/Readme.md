@@ -1,0 +1,1 @@
+The "8 steps to write a project status report" comes from this [article](https://asana.com/resources/how-project-status-reports#how-to-write-a-status-report-in-8-steps).

@@ -1,0 +1,1 @@
+[Areas of possible constraints](https://docs.google.com/document/d/1JdYGr6exLOL5-QFSxNYFeP8RqsdR7Q6WGymlQJqQjoM/edit?tab=t.0#heading=h.9obeyeldc11b)

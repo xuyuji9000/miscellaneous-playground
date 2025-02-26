@@ -1,0 +1,1 @@
+This file documents the tools mentioned in the article [5 steps to creating a stakeholder engagement plan (with template)](https://asana.com/resources/stakeholder-engagement-plan-template) .
