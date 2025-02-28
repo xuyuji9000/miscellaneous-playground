@@ -1,0 +1,1 @@
+[03-distinguish-scope-creep-vs-discovery](https://docs.google.com/document/d/1xtuzMSz69Z7fyJ5Ywu1BZZz4S2JW1s0buP-b8iA5snU/edit?tab=t.0)
