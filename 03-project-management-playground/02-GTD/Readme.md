@@ -1,0 +1,1 @@
+This folder contains the learning from the book, [Getting Things Done](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563) .
