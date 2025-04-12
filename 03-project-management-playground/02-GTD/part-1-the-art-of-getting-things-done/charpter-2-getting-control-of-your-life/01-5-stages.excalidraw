@@ -1,0 +1,86 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "elements": [
+    {
+      "id": "Va42VGCOPnc5B1DgpgZeJ",
+      "type": "rectangle",
+      "x": 572.35546875,
+      "y": 284.34375,
+      "width": 220.65625,
+      "height": 92.1171875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1369793990,
+      "version": 39,
+      "versionNonce": 414100948,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "lgk5YKMBNr6GJFu_qGUFj"
+        }
+      ],
+      "updated": 1744432078081,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "lgk5YKMBNr6GJFu_qGUFj",
+      "type": "text",
+      "x": 577.35546875,
+      "y": 300.40234375,
+      "width": 178.6398468017578,
+      "height": 60,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1145048404,
+      "version": 90,
+      "versionNonce": 1308364372,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1744432081521,
+      "link": null,
+      "locked": false,
+      "text": "1. COLLECT\nCollect things that\ncommand our attention",
+      "fontSize": 16,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "Va42VGCOPnc5B1DgpgZeJ",
+      "originalText": "1. COLLECT\nCollect things that command our attention",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
