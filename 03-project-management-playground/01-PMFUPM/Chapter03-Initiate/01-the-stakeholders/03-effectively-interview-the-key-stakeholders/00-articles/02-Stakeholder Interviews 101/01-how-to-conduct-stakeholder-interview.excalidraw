@@ -1,0 +1,86 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Q3lLD0ZScYqqf1lyPXDHn",
+      "type": "rectangle",
+      "x": 72.25559850830575,
+      "y": -14.384999415683808,
+      "width": 454.4408353506167,
+      "height": 269.98933461446694,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 323718034,
+      "version": 218,
+      "versionNonce": 830794318,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "MYB5un7uOJOI3aN0Y9noZ"
+        }
+      ],
+      "updated": 1745842780308,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "MYB5un7uOJOI3aN0Y9noZ",
+      "type": "text",
+      "x": 77.25559850830575,
+      "y": 20.609667891549662,
+      "width": 431.1997375488281,
+      "height": 200,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 792482446,
+      "version": 415,
+      "versionNonce": 1162881426,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745842780308,
+      "link": null,
+      "locked": false,
+      "text": "Set a Goal\n\n1. what are you hoping to learn from the\nstakeholder\n2. what are they uniquely positioned to help\nwith\n3. A concrete goal for the interview will\nprovide structure to your interview",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "Q3lLD0ZScYqqf1lyPXDHn",
+      "originalText": "Set a Goal\n\n1. what are you hoping to learn from the stakeholder\n2. what are they uniquely positioned to help with\n3. A concrete goal for the interview will provide structure to your interview",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
