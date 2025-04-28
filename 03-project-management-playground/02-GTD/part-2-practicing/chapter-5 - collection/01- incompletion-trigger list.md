@@ -101,6 +101,37 @@ Office/Site
 - furniture
 - Decorations
 
+Waiting for 
+- Information
+- Delegated tasks/projects
+- Completion critical to projects
+- Replies to:
+    - letters
+    - Memos
+    - Calls
+    - Proposals
+    - Rquisitions
+    - Reimbursements
+    - Petty Cash
+    - Insurance
+    - Ordered items
+    - items being repaired
+    - tickets
+    - Decisions of others
+
+Professional development
+- training/seminars
+- Things to learn
+- Things to look up
+- Skills to practice / learn especially re: \
+    computers
+- Tape/video training
+- Resumes
+
+Outside education \
+Research - need to find out about ... \
+Professional wardrobe
+
 
 
 
