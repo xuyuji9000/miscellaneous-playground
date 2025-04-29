@@ -1,3 +1,6 @@
+[article](https://www.nngroup.com/articles/stakeholder-interviews/s)
+
+
 # Commands
 
 1. Start local excalidraw.
