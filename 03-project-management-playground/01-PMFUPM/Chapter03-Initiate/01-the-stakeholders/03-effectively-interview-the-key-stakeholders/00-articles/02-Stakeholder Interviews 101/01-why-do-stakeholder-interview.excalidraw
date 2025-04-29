@@ -1,0 +1,354 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "elements": [
+    {
+      "id": "69UIskpsu2c-WXzJbvOqz",
+      "type": "rectangle",
+      "x": 307.3915955730122,
+      "y": 14.698555014490097,
+      "width": 479.199606813765,
+      "height": 108.70157097182431,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a38",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1037084648,
+      "version": 90,
+      "versionNonce": 1121725080,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "_HvkyoqyGMuT2GJoEMliY"
+        },
+        {
+          "id": "JllFBgYEYpxnEbgkWtKkQ",
+          "type": "arrow"
+        },
+        {
+          "id": "iQzMVdq_7wPTM7_kmDimr",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745893541027,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "_HvkyoqyGMuT2GJoEMliY",
+      "type": "text",
+      "x": 367.8374683158322,
+      "y": 20.44934050040225,
+      "width": 358.307861328125,
+      "height": 97.2,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3G",
+      "roundness": null,
+      "seed": 1410366058,
+      "version": 99,
+      "versionNonce": 754349032,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1745893483010,
+      "link": null,
+      "locked": false,
+      "text": "WHY\nStakeholder Interview",
+      "fontSize": 36,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "69UIskpsu2c-WXzJbvOqz",
+      "originalText": "WHY\nStakeholder Interview",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "247pT2qfkaTNBefyfYMw6",
+      "type": "rectangle",
+      "x": 1134.7230496925658,
+      "y": -154.72946195100548,
+      "width": 300.0226035063465,
+      "height": 139.8835915204834,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3V",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1308003224,
+      "version": 2047,
+      "versionNonce": 490313448,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "cK-152SSYq1bf6QhjGvNu"
+        },
+        {
+          "id": "iQzMVdq_7wPTM7_kmDimr",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745893593151,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "cK-152SSYq1bf6QhjGvNu",
+      "type": "text",
+      "x": 1139.7230496925658,
+      "y": -127.98766619076378,
+      "width": 228.143798828125,
+      "height": 86.4,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": null,
+      "seed": 1612147562,
+      "version": 2233,
+      "versionNonce": 179730920,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1745893593151,
+      "link": null,
+      "locked": false,
+      "text": "2. Understanding of Landscape\n\ngive us an understanding of our\nproject's landscape",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "247pT2qfkaTNBefyfYMw6",
+      "originalText": "2. Understanding of Landscape\n\ngive us an understanding of our project's landscape",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "9QcOVVys-2awO0rgBucbk",
+      "type": "rectangle",
+      "x": 1130.6345533455267,
+      "y": -295.00065335614886,
+      "width": 300.0226035063465,
+      "height": 139.8835915204834,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1028260328,
+      "version": 2173,
+      "versionNonce": 75440104,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "vhlWBz4Qdl3YCx9oJkStQ"
+        },
+        {
+          "id": "JllFBgYEYpxnEbgkWtKkQ",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745893593152,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "vhlWBz4Qdl3YCx9oJkStQ",
+      "type": "text",
+      "x": 1135.6345533455267,
+      "y": -268.25885759590716,
+      "width": 283.0877380371094,
+      "height": 86.4,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": null,
+      "seed": 216180790,
+      "version": 2286,
+      "versionNonce": 1650647784,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1745893593152,
+      "link": null,
+      "locked": false,
+      "text": "1. Stakeholder Engagement\n\nstakeholder interview drives successful\nstakeholder engagement",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "9QcOVVys-2awO0rgBucbk",
+      "originalText": "1. Stakeholder Engagement\n\nstakeholder interview drives successful stakeholder engagement",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "JllFBgYEYpxnEbgkWtKkQ",
+      "type": "arrow",
+      "x": 758.9912934581106,
+      "y": 12.83726968189842,
+      "width": 396.43714974021066,
+      "height": 165.33797164160956,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1110862056,
+      "version": 638,
+      "versionNonce": 1960199656,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745893593152,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          396.43714974021066,
+          -165.33797164160956
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "69UIskpsu2c-WXzJbvOqz",
+        "focus": 0.20932257453104042,
+        "gap": 7.652150641515141
+      },
+      "endBinding": {
+        "elementId": "9QcOVVys-2awO0rgBucbk",
+        "focus": -0.15371687276491086,
+        "gap": 6.0349357264842745
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "iQzMVdq_7wPTM7_kmDimr",
+      "type": "arrow",
+      "x": 777.6255835485692,
+      "y": 17.973219954023662,
+      "width": 353.5909068697747,
+      "height": 93.98082705393746,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 849124072,
+      "version": 528,
+      "versionNonce": 480181480,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745893593152,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          353.5909068697747,
+          -93.98082705393746
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "69UIskpsu2c-WXzJbvOqz",
+        "focus": 0.08768108431486372,
+        "gap": 1.8961880300378766
+      },
+      "endBinding": {
+        "elementId": "247pT2qfkaTNBefyfYMw6",
+        "focus": 0.2912852121165951,
+        "gap": 3.889188035460336
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
