@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "source": "http://localhost:3000",
   "elements": [
     {
       "id": "Q3lLD0ZScYqqf1lyPXDHn",
@@ -20,13 +20,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a0",
+      "index": "b2h",
       "roundness": {
         "type": 3
       },
       "seed": 323718034,
-      "version": 218,
-      "versionNonce": 830794318,
+      "version": 219,
+      "versionNonce": 2079742136,
       "isDeleted": false,
       "boundElements": [
         {
@@ -34,7 +34,7 @@
           "id": "MYB5un7uOJOI3aN0Y9noZ"
         }
       ],
-      "updated": 1745842780308,
+      "updated": 1745985115293,
       "link": null,
       "locked": false
     },
@@ -55,14 +55,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "a1",
+      "index": "b2i",
       "roundness": null,
       "seed": 792482446,
-      "version": 415,
-      "versionNonce": 1162881426,
+      "version": 416,
+      "versionNonce": 667070152,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1745842780308,
+      "boundElements": [],
+      "updated": 1745985115293,
       "link": null,
       "locked": false,
       "text": "Set a Goal\n\n1. what are you hoping to learn from the\nstakeholder\n2. what are they uniquely positioned to help\nwith\n3. A concrete goal for the interview will\nprovide structure to your interview",
@@ -74,6 +74,342 @@
       "originalText": "Set a Goal\n\n1. what are you hoping to learn from the stakeholder\n2. what are they uniquely positioned to help with\n3. A concrete goal for the interview will provide structure to your interview",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "OkIgXSBAZFLRVda7r0LqT",
+      "type": "rectangle",
+      "x": -5468.619764793512,
+      "y": -2259.5551581177406,
+      "width": 487.0804885719803,
+      "height": 180.57943599114788,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2j",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2130256072,
+      "version": 226,
+      "versionNonce": 1848363720,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "YBXAunHYW4hqPjwyVU9VZ"
+        },
+        {
+          "id": "iYRygFfglPbYCmRQIYLSz",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745985199923,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "YBXAunHYW4hqPjwyVU9VZ",
+      "type": "text",
+      "x": -5401.3174660641625,
+      "y": -2217.8654401221665,
+      "width": 352.47589111328125,
+      "height": 97.2,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2k",
+      "roundness": null,
+      "seed": 564653256,
+      "version": 232,
+      "versionNonce": 1193131704,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745985150898,
+      "link": null,
+      "locked": false,
+      "text": "How to conduct a\nstakeholder interview",
+      "fontSize": 36,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "OkIgXSBAZFLRVda7r0LqT",
+      "originalText": "How to conduct a stakeholder interview",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "yflSCs7sD0nlmoKYdTHt8",
+      "type": "rectangle",
+      "x": -6040.46628310142,
+      "y": -1881.136383983954,
+      "width": 376.0648865956852,
+      "height": 273.9711314239848,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2l",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1671495112,
+      "version": 278,
+      "versionNonce": 1803828680,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "ixNjxP5ONDPFz_bXL9idl"
+        },
+        {
+          "id": "iYRygFfglPbYCmRQIYLSz",
+          "type": "arrow"
+        },
+        {
+          "id": "LWTvgCABdBX8KxiacsRu5",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745985515015,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "ixNjxP5ONDPFz_bXL9idl",
+      "type": "text",
+      "x": -6035.46628310142,
+      "y": -1862.9508182719615,
+      "width": 361.3597106933594,
+      "height": 237.60000000000002,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2m",
+      "roundness": null,
+      "seed": 602155720,
+      "version": 632,
+      "versionNonce": 925592776,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745985524075,
+      "link": null,
+      "locked": false,
+      "text": "SET A GOAL\n\nSimilar to a user interview, you'll want to set a\ngoal for your stakeholder interview.\n\n1. what are you hoping to learn from the\nstakeholder?\n2. what are they uniquely positioned to help with?\n\nA concrete GOAL for the interview will provide\nSTRUCTURE to your interview.",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "yflSCs7sD0nlmoKYdTHt8",
+      "originalText": "SET A GOAL\n\nSimilar to a user interview, you'll want to set a goal for your stakeholder interview.\n\n1. what are you hoping to learn from the stakeholder?\n2. what are they uniquely positioned to help with?\n\nA concrete GOAL for the interview will provide STRUCTURE to your interview.",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "iYRygFfglPbYCmRQIYLSz",
+      "type": "arrow",
+      "x": -5323.768554771952,
+      "y": -2075.231016354636,
+      "width": 474.70258376381935,
+      "height": 189.34966904168255,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2o",
+      "roundness": null,
+      "seed": 323578056,
+      "version": 222,
+      "versionNonce": 701852616,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745985515015,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -474.70258376381935,
+          189.34966904168255
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "OkIgXSBAZFLRVda7r0LqT",
+        "focus": -0.29157536181680277,
+        "gap": 10.171542566500193
+      },
+      "endBinding": {
+        "elementId": "yflSCs7sD0nlmoKYdTHt8",
+        "focus": -0.5670079561492624,
+        "gap": 7.9798090416823015
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "0djfYt3AvVmDOqhKKaLyB",
+      "type": "rectangle",
+      "x": -6040.462200369697,
+      "y": -1458.87826599975,
+      "width": 376.0648865956852,
+      "height": 179.62128849893082,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2p",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1450792392,
+      "version": 471,
+      "versionNonce": 1120397512,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "IOzUoASpiDpGGibyaSjSS"
+        },
+        {
+          "id": "LWTvgCABdBX8KxiacsRu5",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745985512231,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "IOzUoASpiDpGGibyaSjSS",
+      "type": "text",
+      "x": -6035.462200369697,
+      "y": -1423.0676217502846,
+      "width": 344.78363037109375,
+      "height": 108,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2q",
+      "roundness": null,
+      "seed": 1197169864,
+      "version": 971,
+      "versionNonce": 971030216,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1745985506866,
+      "link": null,
+      "locked": false,
+      "text": "Your goal can range from \n\n1. to obtaining knowledge\n2. to securing their support\n3. or identifying their communication preference",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "0djfYt3AvVmDOqhKKaLyB",
+      "originalText": "Your goal can range from \n\n1. to obtaining knowledge\n2. to securing their support\n3. or identifying their communication preference",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "LWTvgCABdBX8KxiacsRu5",
+      "type": "arrow",
+      "x": -5861.11277996334,
+      "y": -1603.4238273230492,
+      "width": 0.08217489436265168,
+      "height": 141.63746354923182,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2r",
+      "roundness": null,
+      "seed": 1065253560,
+      "version": 69,
+      "versionNonce": 1120187080,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745985515015,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.08217489436265168,
+          141.63746354923182
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "yflSCs7sD0nlmoKYdTHt8",
+        "focus": 0.04658208585618789,
+        "gap": 6.3045069903414515
+      },
+      "endBinding": {
+        "elementId": "0djfYt3AvVmDOqhKKaLyB",
+        "focus": -0.04574129786474371,
+        "gap": 6.552910730225221
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
