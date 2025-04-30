@@ -20,13 +20,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0A",
+      "index": "b1t",
       "roundness": {
         "type": 3
       },
       "seed": 1037084648,
-      "version": 118,
-      "versionNonce": 1244628959,
+      "version": 124,
+      "versionNonce": 1121418359,
       "isDeleted": false,
       "boundElements": [
         {
@@ -42,7 +42,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false
     },
@@ -63,14 +63,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0B",
+      "index": "b1u",
       "roundness": null,
       "seed": 1410366058,
-      "version": 123,
-      "versionNonce": 1481943441,
+      "version": 129,
+      "versionNonce": 365292153,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "text": "WHY\nStakeholder Interview",
@@ -100,13 +100,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0C",
+      "index": "b1v",
       "roundness": {
         "type": 3
       },
       "seed": 1308003224,
-      "version": 2284,
-      "versionNonce": 64041983,
+      "version": 2290,
+      "versionNonce": 29283735,
       "isDeleted": false,
       "boundElements": [
         {
@@ -118,7 +118,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false
     },
@@ -139,14 +139,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0D",
+      "index": "b1w",
       "roundness": null,
       "seed": 1612147562,
-      "version": 2466,
-      "versionNonce": 1141591921,
+      "version": 2472,
+      "versionNonce": 510931801,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "text": "2. Understanding of Landscape\n\ngive us an understanding of our\nproject's landscape",
@@ -176,13 +176,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0E",
+      "index": "b1x",
       "roundness": {
         "type": 3
       },
       "seed": 1028260328,
-      "version": 2341,
-      "versionNonce": 1353210911,
+      "version": 2347,
+      "versionNonce": 1486752439,
       "isDeleted": false,
       "boundElements": [
         {
@@ -194,7 +194,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false
     },
@@ -215,14 +215,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0F",
+      "index": "b1y",
       "roundness": null,
       "seed": 216180790,
-      "version": 2452,
-      "versionNonce": 833763665,
+      "version": 2458,
+      "versionNonce": 270950457,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "text": "1. Stakeholder Engagement\n\nstakeholder interview drives successful\nstakeholder engagement",
@@ -252,13 +252,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0G",
+      "index": "b1z",
       "roundness": {
         "type": 3
       },
       "seed": 1665285047,
-      "version": 2407,
-      "versionNonce": 614826047,
+      "version": 2411,
+      "versionNonce": 874093527,
       "isDeleted": false,
       "boundElements": [
         {
@@ -266,7 +266,7 @@
           "id": "NAxOz0BwOvZowd_vGE5AG"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false
     },
@@ -287,14 +287,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0H",
+      "index": "b20",
       "roundness": null,
       "seed": 487566551,
-      "version": 2761,
-      "versionNonce": 44099377,
+      "version": 2765,
+      "versionNonce": 1757409561,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "text": "This UNDERSTANDING can help us\n \n1. navigate obstacles before they arise \n2. and keep everyone engaged and\nsupportive.",
@@ -324,16 +324,16 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0I",
+      "index": "b21",
       "roundness": {
         "type": 2
       },
       "seed": 562433977,
-      "version": 618,
-      "versionNonce": 564731999,
+      "version": 622,
+      "versionNonce": 2017855735,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "points": [
@@ -356,8 +356,8 @@
     {
       "id": "2qzosg7hQi44rmhVDQC-V",
       "type": "rectangle",
-      "x": 403.27824345415536,
-      "y": 211.1452216660257,
+      "x": -140.11244763076593,
+      "y": 407.74090149423455,
       "width": 294.25895177649136,
       "height": 75,
       "angle": 0,
@@ -370,13 +370,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0J",
+      "index": "b22",
       "roundness": {
         "type": 3
       },
       "seed": 1771789241,
-      "version": 2470,
-      "versionNonce": 20896017,
+      "version": 2750,
+      "versionNonce": 1222747673,
       "isDeleted": false,
       "boundElements": [
         {
@@ -388,24 +388,32 @@
           "type": "arrow"
         },
         {
+          "id": "Ep899mARnyLxbOu4z1dKg",
+          "type": "arrow"
+        },
+        {
           "id": "9raoEXBEskHRGgbPCRO2t",
           "type": "arrow"
         },
         {
-          "id": "Ep899mARnyLxbOu4z1dKg",
+          "id": "XEa-nVwraRRa9ywpcjmye",
+          "type": "arrow"
+        },
+        {
+          "id": "3gRbUOcY-4ANRqGq3wv37",
           "type": "arrow"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981561489,
       "link": null,
       "locked": false
     },
     {
       "id": "awcI4IawLCuJ_1urQQSmq",
       "type": "text",
-      "x": 523.1117369815612,
-      "y": 237.84522166602568,
-      "width": 54.59196472167969,
+      "x": -13.790955140957749,
+      "y": 434.44090149423454,
+      "width": 41.615966796875,
       "height": 21.6,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -417,33 +425,33 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0K",
+      "index": "b23",
       "roundness": null,
       "seed": 1359576217,
-      "version": 2596,
-      "versionNonce": 1501805695,
+      "version": 2869,
+      "versionNonce": 1507293945,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561489,
       "link": null,
       "locked": false,
-      "text": "Actions",
+      "text": "Goals",
       "fontSize": 16,
       "fontFamily": 6,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "2qzosg7hQi44rmhVDQC-V",
-      "originalText": "Actions",
+      "originalText": "Goals",
       "autoResize": true,
       "lineHeight": 1.35
     },
     {
       "id": "P-7-jum42ZkAs62CfEh95",
       "type": "arrow",
-      "x": 546.9561164115805,
-      "y": 132.26152544131645,
-      "width": 0,
-      "height": 66.29731690495555,
+      "x": 464.93188420890755,
+      "y": 125.58499512751476,
+      "width": 402.936464967499,
+      "height": 278.38970583401647,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -454,14 +462,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0L",
+      "index": "b24",
       "roundness": null,
       "seed": 1406537818,
-      "version": 192,
-      "versionNonce": 1057197809,
+      "version": 466,
+      "versionNonce": 2063578073,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561489,
       "link": null,
       "locked": false,
       "points": [
@@ -470,8 +478,8 @@
           0
         ],
         [
-          0,
-          66.29731690495555
+          -402.936464967499,
+          278.38970583401647
         ]
       ],
       "lastCommittedPoint": null,
@@ -492,8 +500,8 @@
     {
       "id": "TDstvAiAj66qqoabmFdFm",
       "type": "rectangle",
-      "x": -20.712760325593962,
-      "y": 381.5298545902462,
+      "x": -1132.630908887228,
+      "y": 583.3562574604709,
       "width": 294.25895177649136,
       "height": 189.1770841831778,
       "angle": 0,
@@ -506,13 +514,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0M",
+      "index": "b25",
       "roundness": {
         "type": 3
       },
       "seed": 1320604378,
-      "version": 3132,
-      "versionNonce": 1341510815,
+      "version": 3611,
+      "versionNonce": 1058483257,
       "isDeleted": false,
       "boundElements": [
         {
@@ -524,15 +532,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false
     },
     {
       "id": "7a25ZtuTpBOU7pVZQOfsP",
       "type": "text",
-      "x": -15.712760325593962,
-      "y": 411.3183966818351,
+      "x": -1127.630908887228,
+      "y": 613.1447995520598,
       "width": 273.7438049316406,
       "height": 129.60000000000002,
       "angle": 0,
@@ -545,14 +553,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0N",
+      "index": "b26",
       "roundness": null,
       "seed": 2026596250,
-      "version": 3457,
-      "versionNonce": 846629073,
+      "version": 3932,
+      "versionNonce": 397884697,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "text": "A. GATHER CONTEXT AND HISTORY\n\nevery project comes with history:\n1. the origin of the project\n2. known constraints\n3. solution tried before",
@@ -568,10 +576,10 @@
     {
       "id": "9raoEXBEskHRGgbPCRO2t",
       "type": "arrow",
-      "x": 467.15757247642705,
-      "y": 289.12169166251584,
-      "width": 188.13602888228297,
-      "height": 101.78747635372389,
+      "x": -144.70054831862512,
+      "y": 469.13710002770006,
+      "width": 840.9008846803572,
+      "height": 109.21915743277083,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -582,14 +590,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0O",
+      "index": "b27",
       "roundness": null,
       "seed": 3499974,
-      "version": 547,
-      "versionNonce": 1018161343,
+      "version": 1705,
+      "versionNonce": 614173401,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "points": [
@@ -598,30 +606,45 @@
           0
         ],
         [
-          -188.13602888228297,
-          101.78747635372389
+          -840.9008846803572,
+          0
+        ],
+        [
+          -840.9008846803572,
+          109.21915743277083
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "2qzosg7hQi44rmhVDQC-V",
-        "focus": 0.039484839962823495,
-        "gap": 10.251551894946658
+        "focus": 0.034011611550023066,
+        "gap": 8.211332704771623,
+        "fixedPoint": [
+          7.663221156708085e-7,
+          0.8186159768680993
+        ]
       },
       "endBinding": {
         "elementId": "TDstvAiAj66qqoabmFdFm",
-        "focus": -0.015413391104576506,
-        "gap": 10.341044973247392
+        "focus": -0.0006796734603740903,
+        "gap": 5,
+        "fixedPoint": [
+          0.49966016326981283,
+          -0.026430262532001828
+        ]
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
-      "elbowed": false
+      "elbowed": true,
+      "fixedSegments": null,
+      "startIsSpecial": null,
+      "endIsSpecial": null
     },
     {
       "id": "ofAQhXUv_h4O7JgTRq5xw",
       "type": "rectangle",
-      "x": -88.13267273150642,
-      "y": 656.8247861481408,
+      "x": -1200.0508212931404,
+      "y": 858.6511890183655,
       "width": 429.01144341713314,
       "height": 303.9389900646562,
       "angle": 0,
@@ -634,13 +657,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0P",
+      "index": "b28",
       "roundness": {
         "type": 3
       },
       "seed": 891257094,
-      "version": 3614,
-      "versionNonce": 355419825,
+      "version": 4089,
+      "versionNonce": 376883129,
       "isDeleted": false,
       "boundElements": [
         {
@@ -648,15 +671,15 @@
           "id": "IKlBxz42oUleiXqy0f1sR"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false
     },
     {
       "id": "IKlBxz42oUleiXqy0f1sR",
       "type": "text",
-      "x": -83.13267273150642,
-      "y": 700.7942811804688,
+      "x": -1195.0508212931404,
+      "y": 902.6206840506935,
       "width": 340.51171875,
       "height": 216,
       "angle": 0,
@@ -669,14 +692,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0Q",
+      "index": "b29",
       "roundness": null,
       "seed": 148205638,
-      "version": 4347,
-      "versionNonce": 223508703,
+      "version": 4822,
+      "versionNonce": 664234137,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "text": "If you work in a large organization\nthere is almost always politics at play.\n\nStakeholder Interview\ncan help us \n- uncover and organize contextual variables\n- and historical baggage \nthat accompanies a project, prior kickstarting it.\n\n",
@@ -692,8 +715,8 @@
     {
       "id": "ELm7HvsuezZGhtOfYomYi",
       "type": "arrow",
-      "x": 117.01926067533694,
-      "y": 576.851921276806,
+      "x": -994.8988878862971,
+      "y": 778.6783241470307,
       "width": 0.043530324663095143,
       "height": 72.75888980039088,
       "angle": 0,
@@ -706,14 +729,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0R",
+      "index": "b2A",
       "roundness": null,
       "seed": 240690778,
-      "version": 1034,
-      "versionNonce": 30754961,
+      "version": 1509,
+      "versionNonce": 296807801,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "points": [
@@ -736,8 +759,8 @@
     {
       "id": "cKJ2FvsMl9E4cGkV7qmKp",
       "type": "rectangle",
-      "x": -65.0396164301977,
-      "y": 1026.4625214563475,
+      "x": -1177.085233573047,
+      "y": 1228.2889243265722,
       "width": 361.4392098100046,
       "height": 184.1425441995142,
       "angle": 0,
@@ -750,13 +773,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0S",
+      "index": "b2B",
       "roundness": {
         "type": 3
       },
       "seed": 2110226118,
-      "version": 4036,
-      "versionNonce": 661521663,
+      "version": 4512,
+      "versionNonce": 201774681,
       "isDeleted": false,
       "boundElements": [
         {
@@ -764,15 +787,15 @@
           "id": "3f0TYAs8Ow_Q_yfZMjlso"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false
     },
     {
       "id": "3f0TYAs8Ow_Q_yfZMjlso",
       "type": "text",
-      "x": -60.0396164301977,
-      "y": 1064.5337935561047,
+      "x": -1172.085233573047,
+      "y": 1266.3601964263294,
       "width": 332.78375244140625,
       "height": 108,
       "angle": 0,
@@ -785,14 +808,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0T",
+      "index": "b2C",
       "roundness": null,
       "seed": 2134357510,
-      "version": 4770,
-      "versionNonce": 1377832561,
+      "version": 5246,
+      "versionNonce": 426550073,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "text": "having this KNOWLEDGE upfront, will lead to\n\n- a more robust design process\n- save time\n- avoid friction",
@@ -808,8 +831,8 @@
     {
       "id": "niL5hKiPNMq2qFMeesk5f",
       "type": "arrow",
-      "x": 115.83460106217538,
-      "y": 968.6466894897604,
+      "x": -996.0835474994586,
+      "y": 1170.473092359985,
       "width": 0,
       "height": 47.825375265219236,
       "angle": 0,
@@ -822,14 +845,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0U",
+      "index": "b2D",
       "roundness": null,
       "seed": 1192111962,
-      "version": 885,
-      "versionNonce": 1786973471,
+      "version": 1360,
+      "versionNonce": 373675033,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "points": [
@@ -866,13 +889,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0V",
+      "index": "b2E",
       "roundness": {
         "type": 3
       },
       "seed": 460147524,
-      "version": 2893,
-      "versionNonce": 1020729425,
+      "version": 2899,
+      "versionNonce": 1091032889,
       "isDeleted": false,
       "boundElements": [
         {
@@ -888,7 +911,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false
     },
@@ -909,14 +932,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0W",
+      "index": "b2F",
       "roundness": null,
       "seed": 1504395972,
-      "version": 3006,
-      "versionNonce": 960371025,
+      "version": 3012,
+      "versionNonce": 359601367,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976785560,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "text": "Benefits",
@@ -946,14 +969,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0X",
+      "index": "b2G",
       "roundness": null,
       "seed": 188340804,
-      "version": 388,
-      "versionNonce": 869393969,
+      "version": 394,
+      "versionNonce": 207259673,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "points": [
@@ -994,14 +1017,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0Y",
+      "index": "b2H",
       "roundness": null,
       "seed": 152444,
-      "version": 140,
-      "versionNonce": 390828383,
+      "version": 147,
+      "versionNonce": 1652842999,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "points": [
@@ -1046,14 +1069,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0Z",
+      "index": "b2I",
       "roundness": null,
       "seed": 1631823300,
-      "version": 92,
-      "versionNonce": 33028113,
+      "version": 99,
+      "versionNonce": 1071914233,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981354369,
       "link": null,
       "locked": false,
       "points": [
@@ -1084,8 +1107,8 @@
     {
       "id": "69rlujT-6nViymQ7BMjB0",
       "type": "rectangle",
-      "x": 489.69087736141205,
-      "y": 376.48969451575886,
+      "x": -634.7433762002219,
+      "y": 583.3562573859836,
       "width": 294.25895177649136,
       "height": 190.8123301370888,
       "angle": 0,
@@ -1098,13 +1121,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0a",
+      "index": "b2J",
       "roundness": {
         "type": 3
       },
       "seed": 1425705924,
-      "version": 3484,
-      "versionNonce": 867175807,
+      "version": 4009,
+      "versionNonce": 109439225,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1116,15 +1139,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false
     },
     {
       "id": "NT7idj_GVrGXbhAc2NNOR",
       "type": "text",
-      "x": 494.69087736141205,
-      "y": 407.09585958430324,
+      "x": -629.7433762002219,
+      "y": 613.962422454528,
       "width": 270.83172607421875,
       "height": 129.60000000000002,
       "angle": 0,
@@ -1137,14 +1160,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0b",
+      "index": "b2K",
       "roundness": null,
       "seed": 1622963012,
-      "version": 4238,
-      "versionNonce": 692112881,
+      "version": 4759,
+      "versionNonce": 598761945,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "text": "B. IDENTIFY BUSINESS GOALS\n\nAs UX practitioners, we focus on our\nusers and their needs.\nIn CONTRAST our stakeholders focus\non business and its needs.",
@@ -1160,10 +1183,10 @@
     {
       "id": "Ep899mARnyLxbOu4z1dKg",
       "type": "arrow",
-      "x": 540.7012181447486,
-      "y": 287.0382485077434,
-      "width": 56.92774221725324,
-      "height": 84.94509378591255,
+      "x": -75.08291276083116,
+      "y": 487.74090149423455,
+      "width": 391.31912674053785,
+      "height": 90.615355891749,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1174,14 +1197,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0c",
+      "index": "b2L",
       "roundness": null,
       "seed": 361098748,
-      "version": 568,
-      "versionNonce": 577766815,
+      "version": 1777,
+      "versionNonce": 1789034393,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "points": [
@@ -1190,30 +1213,49 @@
           0
         ],
         [
-          56.92774221725324,
-          84.94509378591255
+          0,
+          45.3076779458745
+        ],
+        [
+          -391.31912674053785,
+          45.3076779458745
+        ],
+        [
+          -391.31912674053785,
+          90.615355891749
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "2qzosg7hQi44rmhVDQC-V",
-        "focus": 0.20587139807939345,
-        "gap": 3.4055669613918553
+        "focus": 0.20655911381862413,
+        "gap": 1,
+        "fixedPoint": [
+          0.22099424495785225,
+          1.0666666666666667
+        ]
       },
       "endBinding": {
         "elementId": "69rlujT-6nViymQ7BMjB0",
-        "focus": 0.1316060167362428,
-        "gap": 8.122457147754744
+        "focus": 0.14417138838120386,
+        "gap": 5,
+        "fixedPoint": [
+          0.5720856941906018,
+          -0.026203757358907353
+        ]
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
-      "elbowed": false
+      "elbowed": true,
+      "fixedSegments": null,
+      "startIsSpecial": null,
+      "endIsSpecial": null
     },
     {
       "id": "b4zDQCmxr9YCXYgXUKROa",
       "type": "rectangle",
-      "x": 489.2974250547859,
-      "y": 986.3645729202476,
+      "x": -635.136828506848,
+      "y": 1193.2311357904723,
       "width": 294.25895177649136,
       "height": 283.01800941469673,
       "angle": 0,
@@ -1226,13 +1268,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0d",
+      "index": "b2M",
       "roundness": {
         "type": 3
       },
       "seed": 1779728836,
-      "version": 4388,
-      "versionNonce": 454207199,
+      "version": 4905,
+      "versionNonce": 289481849,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1240,15 +1282,15 @@
           "id": "HaXuxa-hKGAFKGS1_vUEr"
         }
       ],
-      "updated": 1745976541245,
+      "updated": 1745981561490,
       "link": null,
       "locked": false
     },
     {
       "id": "HaXuxa-hKGAFKGS1_vUEr",
       "type": "text",
-      "x": 494.2974250547859,
-      "y": 1019.873577627596,
+      "x": -630.136828506848,
+      "y": 1226.7401404978207,
       "width": 203.48780822753906,
       "height": 216,
       "angle": 0,
@@ -1261,31 +1303,31 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0e",
+      "index": "b2N",
       "roundness": null,
       "seed": 1797761348,
-      "version": 5332,
-      "versionNonce": 687371007,
+      "version": 5858,
+      "versionNonce": 980954457,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976541246,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
-      "text": "This knowledge \n\nensures that you \n- track the RIGHT METRICS \nto \n- prove project success, \nboth from\n- the business's\n- and the users' \npoint of view",
+      "text": "This KNOWLEDGE \n\nensures that you \n- track the RIGHT METRICS \nto \n- prove project success, \nboth from\n- the business's\n- and the users' \npoint of view",
       "fontSize": 16,
       "fontFamily": 6,
       "textAlign": "left",
       "verticalAlign": "middle",
       "containerId": "b4zDQCmxr9YCXYgXUKROa",
-      "originalText": "This knowledge \n\nensures that you \n- track the RIGHT METRICS \nto \n- prove project success, \nboth from\n- the business's\n- and the users' \npoint of view",
+      "originalText": "This KNOWLEDGE \n\nensures that you \n- track the RIGHT METRICS \nto \n- prove project success, \nboth from\n- the business's\n- and the users' \npoint of view",
       "autoResize": true,
       "lineHeight": 1.35
     },
     {
       "id": "bcrU2Ia8c2a_YtsdiEpYQ",
       "type": "rectangle",
-      "x": 489.4609805016968,
-      "y": 706.0706104106146,
+      "x": -634.9732730599371,
+      "y": 912.9371732808393,
       "width": 294.25895177649136,
       "height": 179.5571882057249,
       "angle": 0,
@@ -1298,33 +1340,29 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0f",
+      "index": "b2O",
       "roundness": {
         "type": 3
       },
       "seed": 772025980,
-      "version": 3854,
-      "versionNonce": 515078929,
+      "version": 4372,
+      "versionNonce": 1033574969,
       "isDeleted": false,
       "boundElements": [
         {
           "type": "text",
           "id": "5x_iJk9pvl2Stn6N8b2j9"
-        },
-        {
-          "id": "dlR3G7bvE5G9oqal4DTVU",
-          "type": "arrow"
         }
       ],
-      "updated": 1745976589204,
+      "updated": 1745981561490,
       "link": null,
       "locked": false
     },
     {
       "id": "5x_iJk9pvl2Stn6N8b2j9",
       "type": "text",
-      "x": 494.4609805016968,
-      "y": 720.249204513477,
+      "x": -629.9732730599371,
+      "y": 927.1157673837017,
       "width": 263.519775390625,
       "height": 151.20000000000002,
       "angle": 0,
@@ -1337,14 +1375,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0g",
+      "index": "b2P",
       "roundness": null,
       "seed": 1347174724,
-      "version": 722,
-      "versionNonce": 415475871,
+      "version": 1239,
+      "versionNonce": 999123737,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976584329,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "text": "Stakeholder interviews \n\n- can provide us with DATA and\nINSIGHTS about business problems\nand \n- can pinpoint business OBJECTIVES\nand KEY RESULTS.",
@@ -1360,8 +1398,8 @@
     {
       "id": "P4VfexoWft_TnVleJDbgQ",
       "type": "arrow",
-      "x": 635.880628002334,
-      "y": 576.8519210156478,
+      "x": -488.5536255593,
+      "y": 783.7184838858725,
       "width": 0,
       "height": 119.51565195271291,
       "angle": 0,
@@ -1374,14 +1412,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0h",
+      "index": "b2Q",
       "roundness": null,
       "seed": 903610948,
-      "version": 467,
-      "versionNonce": 965142417,
+      "version": 972,
+      "versionNonce": 1824694265,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976508287,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "points": [
@@ -1404,8 +1442,8 @@
     {
       "id": "dlR3G7bvE5G9oqal4DTVU",
       "type": "arrow",
-      "x": 631.8223943116953,
-      "y": 895.3848348883068,
+      "x": -492.6118592499386,
+      "y": 1102.2513977585315,
       "width": 0,
       "height": 85.05646030408616,
       "angle": 0,
@@ -1418,14 +1456,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b0i",
+      "index": "b2R",
       "roundness": null,
       "seed": 1137997124,
-      "version": 1386,
-      "versionNonce": 279620305,
+      "version": 2141,
+      "versionNonce": 792606937,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745976589555,
+      "updated": 1745981561490,
       "link": null,
       "locked": false,
       "points": [
@@ -1439,12 +1477,553 @@
         ]
       ],
       "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "bcrU2Ia8c2a_YtsdiEpYQ",
-        "focus": 0.03240725252000983,
-        "gap": 9.757036271967308
-      },
+      "startBinding": null,
       "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "LrdJUMITIKkPU91XWdEV_",
+      "type": "rectangle",
+      "x": -136.85584279918362,
+      "y": 583.3562577409369,
+      "width": 294.25895177649136,
+      "height": 186.55259408727187,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2S",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1211768612,
+      "version": 4282,
+      "versionNonce": 1418966457,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "iPRTZ8b-YfsTaCZaQOhlJ"
+        },
+        {
+          "id": "XEa-nVwraRRa9ywpcjmye",
+          "type": "arrow"
+        },
+        {
+          "id": "zBthcDuCWw-tHPYNiz9KE",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745981561490,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "iPRTZ8b-YfsTaCZaQOhlJ",
+      "type": "text",
+      "x": -131.85584279918362,
+      "y": 601.0325547845729,
+      "width": 250.7997283935547,
+      "height": 151.20000000000002,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2T",
+      "roundness": null,
+      "seed": 561158820,
+      "version": 5373,
+      "versionNonce": 803640985,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1745981561490,
+      "link": null,
+      "locked": false,
+      "text": "C. Align on a shared vision\n\nUnderstanding your stakeholders'\nVISION, beyond success metrics, is\nanother benefit of stakeholder\ninterview.\n",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "LrdJUMITIKkPU91XWdEV_",
+      "originalText": "C. Align on a shared vision\n\nUnderstanding your stakeholders' VISION, beyond success metrics, is another benefit of stakeholder interview.\n",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "n6CfyL0oFKkli-tEWooAs",
+      "type": "rectangle",
+      "x": -140.46281673099986,
+      "y": 908.5941767733456,
+      "width": 294.25895177649136,
+      "height": 194.90625000000003,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2U",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 2080451095,
+      "version": 4374,
+      "versionNonce": 44208441,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "2Wiwp0dq433TAghxalZ_b"
+        },
+        {
+          "id": "zBthcDuCWw-tHPYNiz9KE",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745981561490,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "2Wiwp0dq433TAghxalZ_b",
+      "type": "text",
+      "x": -135.46281673099986,
+      "y": 941.2473017733456,
+      "width": 266.95977783203125,
+      "height": 129.60000000000002,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2V",
+      "roundness": null,
+      "seed": 1889652535,
+      "version": 5468,
+      "versionNonce": 2123235865,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1745981561490,
+      "link": null,
+      "locked": false,
+      "text": "\nYou can assess where it differs from\nyour own vision, \nthen align on shared, collaborative\nvision for your work and the initiative\nat large.",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "n6CfyL0oFKkli-tEWooAs",
+      "originalText": "\nYou can assess where it differs from your own vision, \nthen align on shared, collaborative vision for your work and the initiative at large.",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "XEa-nVwraRRa9ywpcjmye",
+      "type": "arrow",
+      "x": 6.917028257479728,
+      "y": 487.74090149423455,
+      "width": 0,
+      "height": 86.14037205090045,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2W",
+      "roundness": null,
+      "seed": 1112930711,
+      "version": 1060,
+      "versionNonce": 640920087,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745981561629,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          86.14037205090045
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "2qzosg7hQi44rmhVDQC-V",
+        "focus": 0.0006796734603741833,
+        "gap": 5
+      },
+      "endBinding": {
+        "elementId": "LrdJUMITIKkPU91XWdEV_",
+        "focus": -0.022813952209901494,
+        "gap": 9.474984195801994
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "fixedSegments": null,
+      "startIsSpecial": null,
+      "endIsSpecial": null
+    },
+    {
+      "id": "zBthcDuCWw-tHPYNiz9KE",
+      "type": "arrow",
+      "x": 10.173633089062037,
+      "y": 774.9088518282086,
+      "width": 0,
+      "height": 126.47829369513704,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2X",
+      "roundness": null,
+      "seed": 1255706937,
+      "version": 1113,
+      "versionNonce": 801329239,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745981561629,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          126.47829369513704
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "LrdJUMITIKkPU91XWdEV_",
+        "focus": 0.0006796734603741594,
+        "gap": 4.999999999999886
+      },
+      "endBinding": {
+        "elementId": "n6CfyL0oFKkli-tEWooAs",
+        "focus": 0.02383597107679455,
+        "gap": 7.207031249999886
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "fixedSegments": null,
+      "startIsSpecial": null,
+      "endIsSpecial": null
+    },
+    {
+      "id": "zMhDPTb7QZ_3ZjkrXwbN8",
+      "type": "rectangle",
+      "x": 360.68430728217754,
+      "y": 583.3562578172764,
+      "width": 294.25895177649136,
+      "height": 186.55259408727187,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2Y",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 694757175,
+      "version": 4440,
+      "versionNonce": 1736956791,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "tS1qaqAk96_K5_iJhniRF"
+        },
+        {
+          "id": "3gRbUOcY-4ANRqGq3wv37",
+          "type": "arrow"
+        },
+        {
+          "id": "LdYDXmoMkHUaZ0ZgAW1rw",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745981785550,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "tS1qaqAk96_K5_iJhniRF",
+      "type": "text",
+      "x": 365.68430728217754,
+      "y": 633.4325548609123,
+      "width": 274.33575439453125,
+      "height": 86.4,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2Z",
+      "roundness": null,
+      "seed": 1716332631,
+      "version": 5660,
+      "versionNonce": 1071387575,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1745981776658,
+      "link": null,
+      "locked": false,
+      "text": "D. Increase buy-in and communication\n\nStakeholder interviews help\nstakeholders feel heard.",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "zMhDPTb7QZ_3ZjkrXwbN8",
+      "originalText": "D. Increase buy-in and communication\n\nStakeholder interviews help stakeholders feel heard.",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "3gRbUOcY-4ANRqGq3wv37",
+      "type": "arrow",
+      "x": 129.77180427178212,
+      "y": 487.74090149423455,
+      "width": 377.9419788986413,
+      "height": 90.61535632304185,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2b",
+      "roundness": null,
+      "seed": 2003776793,
+      "version": 877,
+      "versionNonce": 206950903,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745981776660,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          45.307678161520926
+        ],
+        [
+          377.9419788986413,
+          45.307678161520926
+        ],
+        [
+          377.9419788986413,
+          90.61535632304185
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "2qzosg7hQi44rmhVDQC-V",
+        "focus": -0.834331633910955,
+        "gap": 5,
+        "fixedPoint": [
+          0.9171658169554772,
+          1.0666666666666667
+        ]
+      },
+      "endBinding": {
+        "elementId": "zMhDPTb7QZ_3ZjkrXwbN8",
+        "focus": 1.0536041862560306,
+        "gap": 5,
+        "fixedPoint": [
+          0.4996601632698136,
+          -0.02680209312801585
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": true,
+      "fixedSegments": null,
+      "startIsSpecial": null,
+      "endIsSpecial": null
+    },
+    {
+      "id": "t9Z7DbEeID2B2AwaBZ-Lt",
+      "type": "rectangle",
+      "x": 363.5495938137966,
+      "y": 877.2457760510717,
+      "width": 294.25895177649136,
+      "height": 214.92477605288855,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2d",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 969436887,
+      "version": 4587,
+      "versionNonce": 637708727,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "EKvh0rz3avHnQMsv1Tzqk"
+        },
+        {
+          "id": "LdYDXmoMkHUaZ0ZgAW1rw",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1745981785550,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "EKvh0rz3avHnQMsv1Tzqk",
+      "type": "text",
+      "x": 368.5495938137966,
+      "y": 909.108164077516,
+      "width": 283.3597412109375,
+      "height": 151.20000000000002,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2e",
+      "roundness": null,
+      "seed": 648182775,
+      "version": 6052,
+      "versionNonce": 2024703191,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1745981776658,
+      "link": null,
+      "locked": false,
+      "text": "Stakeholder interviews\n\n1. make stakeholders more likely to\nbuy into the projects and its output.\n2. also help establish an open\ncommunication channel throughout the\ndesign process.",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "t9Z7DbEeID2B2AwaBZ-Lt",
+      "originalText": "Stakeholder interviews\n\n1. make stakeholders more likely to buy into the projects and its output.\n2. also help establish an open communication channel throughout the design process.",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "LdYDXmoMkHUaZ0ZgAW1rw",
+      "type": "arrow",
+      "x": 507.9744666289916,
+      "y": 772.9665082946894,
+      "width": 0,
+      "height": 94.32116435284138,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b2g",
+      "roundness": null,
+      "seed": 1403322423,
+      "version": 83,
+      "versionNonce": 252400791,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1745981785550,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          94.32116435284138
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "zMhDPTb7QZ_3ZjkrXwbN8",
+        "focus": -0.001092122823100534,
+        "gap": 3.057656390141119
+      },
+      "endBinding": {
+        "elementId": "t9Z7DbEeID2B2AwaBZ-Lt",
+        "focus": -0.01838246929598895,
+        "gap": 9.958103403540917
+      },
       "startArrowhead": null,
       "endArrowhead": "arrow",
       "elbowed": false
