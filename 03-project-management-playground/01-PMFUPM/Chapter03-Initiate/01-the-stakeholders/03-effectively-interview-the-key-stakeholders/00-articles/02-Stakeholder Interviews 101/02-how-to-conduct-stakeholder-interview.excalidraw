@@ -6,8 +6,8 @@
     {
       "id": "Q3lLD0ZScYqqf1lyPXDHn",
       "type": "rectangle",
-      "x": 72.45586424759074,
-      "y": -14.178058151756034,
+      "x": -593.9116847832411,
+      "y": -507.6263108390177,
       "width": 454.4408353506167,
       "height": 269.98933461446694,
       "angle": 0,
@@ -20,13 +20,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5F",
+      "index": "b63",
       "roundness": {
         "type": 3
       },
       "seed": 422215304,
-      "version": 231,
-      "versionNonce": 787022633,
+      "version": 479,
+      "versionNonce": 1063014372,
       "isDeleted": false,
       "boundElements": [
         {
@@ -42,15 +42,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006551600,
+      "updated": 1746007507317,
       "link": null,
       "locked": false
     },
     {
       "id": "MYB5un7uOJOI3aN0Y9noZ",
       "type": "text",
-      "x": 77.45586424759074,
-      "y": 12.816609155477437,
+      "x": -588.9116847832411,
+      "y": -480.63164353178433,
       "width": 444.39947509765625,
       "height": 216,
       "angle": 0,
@@ -63,14 +63,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5G",
+      "index": "b64",
       "roundness": null,
       "seed": 792482446,
-      "version": 441,
-      "versionNonce": 1383784423,
+      "version": 689,
+      "versionNonce": 2123412324,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007507317,
       "link": null,
       "locked": false,
       "text": "1. Set a Goal\n\nA. what are you hoping to learn from the\nstakeholder\nB. what are they uniquely positioned to help with\n\nA concrete goal for the interview will provide\nstructure to your interview",
@@ -84,346 +84,10 @@
       "lineHeight": 1.35
     },
     {
-      "id": "OkIgXSBAZFLRVda7r0LqT",
-      "type": "rectangle",
-      "x": -5468.619764793512,
-      "y": -2259.5551581177406,
-      "width": 487.0804885719803,
-      "height": 180.57943599114788,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b5H",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 2130256072,
-      "version": 231,
-      "versionNonce": 1326495241,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "type": "text",
-          "id": "YBXAunHYW4hqPjwyVU9VZ"
-        },
-        {
-          "id": "iYRygFfglPbYCmRQIYLSz",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1746006551600,
-      "link": null,
-      "locked": false
-    },
-    {
-      "id": "YBXAunHYW4hqPjwyVU9VZ",
-      "type": "text",
-      "x": -5401.3174660641625,
-      "y": -2217.8654401221665,
-      "width": 352.47589111328125,
-      "height": 97.2,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b5I",
-      "roundness": null,
-      "seed": 564653256,
-      "version": 237,
-      "versionNonce": 1879329543,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1746006551600,
-      "link": null,
-      "locked": false,
-      "text": "How to conduct a\nstakeholder interview",
-      "fontSize": 36,
-      "fontFamily": 6,
-      "textAlign": "center",
-      "verticalAlign": "middle",
-      "containerId": "OkIgXSBAZFLRVda7r0LqT",
-      "originalText": "How to conduct a stakeholder interview",
-      "autoResize": true,
-      "lineHeight": 1.35
-    },
-    {
-      "id": "yflSCs7sD0nlmoKYdTHt8",
-      "type": "rectangle",
-      "x": -6040.46628310142,
-      "y": -1881.136383983954,
-      "width": 376.0648865956852,
-      "height": 273.9711314239848,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b5J",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 1671495112,
-      "version": 283,
-      "versionNonce": 964627689,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "type": "text",
-          "id": "ixNjxP5ONDPFz_bXL9idl"
-        },
-        {
-          "id": "iYRygFfglPbYCmRQIYLSz",
-          "type": "arrow"
-        },
-        {
-          "id": "LWTvgCABdBX8KxiacsRu5",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1746006551600,
-      "link": null,
-      "locked": false
-    },
-    {
-      "id": "ixNjxP5ONDPFz_bXL9idl",
-      "type": "text",
-      "x": -6035.46628310142,
-      "y": -1862.9508182719615,
-      "width": 361.3597106933594,
-      "height": 237.60000000000002,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b5K",
-      "roundness": null,
-      "seed": 602155720,
-      "version": 637,
-      "versionNonce": 1802719783,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1746006551600,
-      "link": null,
-      "locked": false,
-      "text": "SET A GOAL\n\nSimilar to a user interview, you'll want to set a\ngoal for your stakeholder interview.\n\n1. what are you hoping to learn from the\nstakeholder?\n2. what are they uniquely positioned to help with?\n\nA concrete GOAL for the interview will provide\nSTRUCTURE to your interview.",
-      "fontSize": 16,
-      "fontFamily": 6,
-      "textAlign": "left",
-      "verticalAlign": "middle",
-      "containerId": "yflSCs7sD0nlmoKYdTHt8",
-      "originalText": "SET A GOAL\n\nSimilar to a user interview, you'll want to set a goal for your stakeholder interview.\n\n1. what are you hoping to learn from the stakeholder?\n2. what are they uniquely positioned to help with?\n\nA concrete GOAL for the interview will provide STRUCTURE to your interview.",
-      "autoResize": true,
-      "lineHeight": 1.35
-    },
-    {
-      "id": "iYRygFfglPbYCmRQIYLSz",
-      "type": "arrow",
-      "x": -5323.768554771952,
-      "y": -2075.231016354636,
-      "width": 474.70258376381935,
-      "height": 189.34966904168255,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b5L",
-      "roundness": null,
-      "seed": 323578056,
-      "version": 227,
-      "versionNonce": 901744585,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1746006551600,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          -474.70258376381935,
-          189.34966904168255
-        ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "OkIgXSBAZFLRVda7r0LqT",
-        "focus": -0.29157536181680277,
-        "gap": 10.171542566500193
-      },
-      "endBinding": {
-        "elementId": "yflSCs7sD0nlmoKYdTHt8",
-        "focus": -0.5670079561492624,
-        "gap": 7.9798090416823015
-      },
-      "startArrowhead": null,
-      "endArrowhead": "arrow",
-      "elbowed": false
-    },
-    {
-      "id": "0djfYt3AvVmDOqhKKaLyB",
-      "type": "rectangle",
-      "x": -6040.462200369697,
-      "y": -1458.87826599975,
-      "width": 376.0648865956852,
-      "height": 179.62128849893082,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b5M",
-      "roundness": {
-        "type": 3
-      },
-      "seed": 1450792392,
-      "version": 476,
-      "versionNonce": 766801223,
-      "isDeleted": false,
-      "boundElements": [
-        {
-          "type": "text",
-          "id": "IOzUoASpiDpGGibyaSjSS"
-        },
-        {
-          "id": "LWTvgCABdBX8KxiacsRu5",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1746006551600,
-      "link": null,
-      "locked": false
-    },
-    {
-      "id": "IOzUoASpiDpGGibyaSjSS",
-      "type": "text",
-      "x": -6035.462200369697,
-      "y": -1423.0676217502846,
-      "width": 344.78363037109375,
-      "height": 108,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b5N",
-      "roundness": null,
-      "seed": 1197169864,
-      "version": 976,
-      "versionNonce": 233678505,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1746006551600,
-      "link": null,
-      "locked": false,
-      "text": "Your goal can range from \n\n1. to obtaining knowledge\n2. to securing their support\n3. or identifying their communication preference",
-      "fontSize": 16,
-      "fontFamily": 6,
-      "textAlign": "left",
-      "verticalAlign": "middle",
-      "containerId": "0djfYt3AvVmDOqhKKaLyB",
-      "originalText": "Your goal can range from \n\n1. to obtaining knowledge\n2. to securing their support\n3. or identifying their communication preference",
-      "autoResize": true,
-      "lineHeight": 1.35
-    },
-    {
-      "id": "LWTvgCABdBX8KxiacsRu5",
-      "type": "arrow",
-      "x": -5861.11277996334,
-      "y": -1603.4238273230492,
-      "width": 0.08217489436265168,
-      "height": 141.63746354923182,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 0,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b5O",
-      "roundness": null,
-      "seed": 1065253560,
-      "version": 74,
-      "versionNonce": 1310995559,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1746006551600,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          0.08217489436265168,
-          141.63746354923182
-        ]
-      ],
-      "lastCommittedPoint": null,
-      "startBinding": {
-        "elementId": "yflSCs7sD0nlmoKYdTHt8",
-        "focus": 0.04658208585618789,
-        "gap": 6.3045069903414515
-      },
-      "endBinding": {
-        "elementId": "0djfYt3AvVmDOqhKKaLyB",
-        "focus": -0.04574129786474371,
-        "gap": 6.552910730225221
-      },
-      "startArrowhead": null,
-      "endArrowhead": "arrow",
-      "elbowed": false
-    },
-    {
       "id": "2-mkdKMKv7sP0Ch2AdDOO",
       "type": "rectangle",
-      "x": -269.6327440024407,
-      "y": 435.40155782408783,
+      "x": -1213.8503157136945,
+      "y": -692.418187470081,
       "width": 387.6731411530105,
       "height": 319.9467779874376,
       "angle": 0,
@@ -436,13 +100,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5P",
+      "index": "b6D",
       "roundness": {
         "type": 3
       },
       "seed": 1361281879,
-      "version": 148,
-      "versionNonce": 1018489225,
+      "version": 456,
+      "versionNonce": 174032100,
       "isDeleted": false,
       "boundElements": [
         {
@@ -454,15 +118,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006551600,
+      "updated": 1746007508508,
       "link": null,
       "locked": false
     },
     {
       "id": "WAm-mpXkLcmhly9lDQmr4",
       "type": "text",
-      "x": -264.6327440024407,
-      "y": 465.7749468178066,
+      "x": -1208.8503157136945,
+      "y": -662.0447984763622,
       "width": 366.62371826171875,
       "height": 259.20000000000005,
       "angle": 0,
@@ -475,14 +139,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5Q",
+      "index": "b6E",
       "roundness": null,
       "seed": 1795479801,
-      "version": 524,
-      "versionNonce": 1150226311,
+      "version": 832,
+      "versionNonce": 1298483300,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007508508,
       "link": null,
       "locked": false,
       "text": "Example of Goals\n\n1. Identifying potential concerns or obstacles\n2. assessing technological limitations and previous\nexplorations\n3. understanding competitors and potential market\nchallenges\n4. outlining communication and involvement\npreferences\n5. establishing buy-in and support\n6. Sining them on as a project champion\n7. creating shared success metrics",
@@ -498,10 +162,10 @@
     {
       "id": "Rl62Utvo5PeD2C06_KllR",
       "type": "arrow",
-      "x": 306.81700598629084,
-      "y": 259.430327451055,
-      "width": 269.0284907266356,
-      "height": 175.33429850576397,
+      "x": -586.576209603658,
+      "y": -503.68615532749806,
+      "width": 238.83004485970253,
+      "height": 48.71850277555626,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -512,14 +176,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5R",
+      "index": "b6F",
       "roundness": null,
       "seed": 1694179929,
-      "version": 182,
-      "versionNonce": 1532022889,
+      "version": 856,
+      "versionNonce": 1105632228,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007508508,
       "link": null,
       "locked": false,
       "points": [
@@ -528,19 +192,19 @@
           0
         ],
         [
-          -269.0284907266356,
-          175.33429850576397
+          -238.83004485970253,
+          -48.71850277555626
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "Q3lLD0ZScYqqf1lyPXDHn",
-        "focus": -0.5061757794965338,
-        "gap": 6.981240671651108
+        "focus": 0.4913320643305326,
+        "gap": 3.690224818997308
       },
       "endBinding": {
         "elementId": "2-mkdKMKv7sP0Ch2AdDOO",
-        "focus": -0.30240586273945314,
+        "focus": -0.302419790180928,
         "gap": 1
       },
       "startArrowhead": null,
@@ -564,13 +228,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5S",
+      "index": "b6G",
       "roundness": {
         "type": 3
       },
       "seed": 1934011272,
-      "version": 133,
-      "versionNonce": 1529972391,
+      "version": 137,
+      "versionNonce": 676205540,
       "isDeleted": false,
       "boundElements": [
         {
@@ -584,9 +248,13 @@
         {
           "id": "KwxvUtHSfkYs-6BelJ3yv",
           "type": "arrow"
+        },
+        {
+          "id": "Wdmm51dBBw9PzP_Z6iPFL",
+          "type": "arrow"
         }
       ],
-      "updated": 1746006551600,
+      "updated": 1746007570201,
       "link": null,
       "locked": false
     },
@@ -607,14 +275,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5T",
+      "index": "b6H",
       "roundness": null,
       "seed": 58494968,
-      "version": 111,
-      "versionNonce": 1334631241,
+      "version": 114,
+      "versionNonce": 332512220,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007557642,
       "link": null,
       "locked": false,
       "text": "How to conduct\nstakeholder interview?",
@@ -630,10 +298,10 @@
     {
       "id": "jbgENR7UXmj4Rv4WSskzN",
       "type": "arrow",
-      "x": 636.8055468828512,
-      "y": -224.00495880171496,
-      "width": 354.69908635452293,
-      "height": 199.75539835253466,
+      "x": 418.89060329422836,
+      "y": -298.9091872360238,
+      "width": 546.1479394381793,
+      "height": 101.65727279848312,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -644,14 +312,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5U",
+      "index": "b6I",
       "roundness": null,
       "seed": 230138616,
-      "version": 121,
-      "versionNonce": 1622677959,
+      "version": 431,
+      "versionNonce": 67204316,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007557646,
       "link": null,
       "locked": false,
       "points": [
@@ -660,20 +328,20 @@
           0
         ],
         [
-          -354.69908635452293,
-          199.75539835253466
+          -546.1479394381793,
+          -101.65727279848312
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "0lHeU3IVmyBr5CscumHXU",
-        "focus": -0.29271889820729663,
-        "gap": 1.106173872834347
+        "focus": -0.29477004124520567,
+        "gap": 1
       },
       "endBinding": {
         "elementId": "Q3lLD0ZScYqqf1lyPXDHn",
-        "focus": -0.5892990346907482,
-        "gap": 10.071502297424274
+        "focus": -0.4090656786550961,
+        "gap": 14.359160149301431
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -682,8 +350,8 @@
     {
       "id": "ttqJwucV3v3Uh9vdplHa5",
       "type": "rectangle",
-      "x": 886.8016963528917,
-      "y": -14.178058278515643,
+      "x": -535.2623379603879,
+      "y": 269.19023281146724,
       "width": 316.1309673219773,
       "height": 100.58188514369505,
       "angle": 0,
@@ -696,13 +364,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5V",
+      "index": "b6J",
       "roundness": {
         "type": 3
       },
       "seed": 1710390408,
-      "version": 706,
-      "versionNonce": 969181737,
+      "version": 805,
+      "versionNonce": 1976824548,
       "isDeleted": false,
       "boundElements": [
         {
@@ -714,15 +382,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006551600,
+      "updated": 1746007512140,
       "link": null,
       "locked": false
     },
     {
       "id": "C_Liyy6hqEqYVi6hRIUtr",
       "type": "text",
-      "x": 950.3472749235483,
-      "y": 22.61288429333188,
+      "x": -471.71675938973124,
+      "y": 305.9811753833148,
       "width": 189.03981018066406,
       "height": 27,
       "angle": 0,
@@ -735,14 +403,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5W",
+      "index": "b6K",
       "roundness": null,
       "seed": 1168213240,
-      "version": 922,
-      "versionNonce": 440355047,
+      "version": 1021,
+      "versionNonce": 1813771876,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007512140,
       "link": null,
       "locked": false,
       "text": "2. Prepare Questions",
@@ -758,10 +426,10 @@
     {
       "id": "KwxvUtHSfkYs-6BelJ3yv",
       "type": "arrow",
-      "x": 784.6655393548233,
+      "x": 612.842765865932,
       "y": -223.84328042520315,
-      "width": 227.00256354657324,
-      "height": 205.3707083924218,
+      "width": 862.3756238890683,
+      "height": 488.7389994824047,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -772,14 +440,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5X",
+      "index": "b6L",
       "roundness": null,
       "seed": 1270579192,
-      "version": 250,
-      "versionNonce": 585325833,
+      "version": 350,
+      "versionNonce": 1177975132,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007557646,
       "link": null,
       "locked": false,
       "points": [
@@ -788,8 +456,8 @@
           0
         ],
         [
-          227.00256354657324,
-          205.3707083924218
+          -862.3756238890683,
+          488.7389994824047
         ]
       ],
       "lastCommittedPoint": null,
@@ -810,8 +478,8 @@
     {
       "id": "o1uvRAK4reumdP4B_iISz",
       "type": "rectangle",
-      "x": 759.9059590144972,
-      "y": 232.37105565292944,
+      "x": -661.9796114584118,
+      "y": 515.7393467429124,
       "width": 569.3413767910688,
       "height": 388,
       "angle": 0,
@@ -824,13 +492,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5Y",
+      "index": "b6M",
       "roundness": {
         "type": 3
       },
       "seed": 1846785016,
-      "version": 1236,
-      "versionNonce": 1968411655,
+      "version": 1334,
+      "versionNonce": 1779466076,
       "isDeleted": false,
       "boundElements": [
         {
@@ -842,15 +510,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006551600,
+      "updated": 1746007499687,
       "link": null,
       "locked": false
     },
     {
       "id": "gsbQe2wj0dsi7EubcUC-K",
       "type": "text",
-      "x": 764.9059590144972,
-      "y": 237.37105565292944,
+      "x": -656.9796114584118,
+      "y": 520.7393467429124,
       "width": 548.19921875,
       "height": 378,
       "angle": 0,
@@ -863,14 +531,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5Z",
+      "index": "b6N",
       "roundness": null,
       "seed": 2078147976,
-      "version": 1973,
-      "versionNonce": 1784992745,
+      "version": 2071,
+      "versionNonce": 1526739932,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007499687,
       "link": null,
       "locked": false,
       "text": "There are 3 types of interviews\n\n1. unstructured\n2. semistructured\n3. structured\n\nStakeholder interviews are most often semistructured: \ninstead of a SCRIPT ( which is used in structured interviews )\nyou will use a DISCUSSION GUIDE that provides direction\nthat doesn't need to be followed precisely.\n\n1. SCRIPT                        -> structured\n2. DISCUSSION GUIDE -> semistructured\n",
@@ -886,8 +554,8 @@
     {
       "id": "0_FO_F8ID0a5mOcpuhi1G",
       "type": "arrow",
-      "x": 1056.1736109136837,
-      "y": 87.3558935924911,
+      "x": -365.7119595592253,
+      "y": 370.724184682474,
       "width": 2.843158652962188,
       "height": 138.7826820297597,
       "angle": 0,
@@ -900,14 +568,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5a",
+      "index": "b6O",
       "roundness": null,
       "seed": 326075384,
-      "version": 852,
-      "versionNonce": 2045868839,
+      "version": 950,
+      "versionNonce": 1005710556,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007499687,
       "link": null,
       "locked": false,
       "points": [
@@ -930,8 +598,8 @@
     {
       "id": "UDSt5eU1RHAU9BEN5XWQU",
       "type": "rectangle",
-      "x": 636.6611217018989,
-      "y": 998.0299808519374,
+      "x": -785.2244487710101,
+      "y": 1281.3982719419203,
       "width": 470.6294472462398,
       "height": 312.99735551207687,
       "angle": 0,
@@ -944,13 +612,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5b",
+      "index": "b6P",
       "roundness": {
         "type": 3
       },
       "seed": 9684360,
-      "version": 1894,
-      "versionNonce": 1951690441,
+      "version": 1992,
+      "versionNonce": 425193820,
       "isDeleted": false,
       "boundElements": [
         {
@@ -966,15 +634,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006551600,
+      "updated": 1746007499687,
       "link": null,
       "locked": false
     },
     {
       "id": "yb9emESKDGcXrmYqdV_fV",
       "type": "text",
-      "x": 641.6611217018989,
-      "y": 1033.0286586079758,
+      "x": -780.2244487710101,
+      "y": 1316.3969496979587,
       "width": 451.95941162109375,
       "height": 243,
       "angle": 0,
@@ -987,14 +655,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5c",
+      "index": "b6Q",
       "roundness": null,
       "seed": 2086221960,
-      "version": 850,
-      "versionNonce": 2089123399,
+      "version": 948,
+      "versionNonce": 1418290652,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007499687,
       "link": null,
       "locked": false,
       "text": "Preparing a GUIDE for your stakeholder interview \n\nensures that your QUESTIONs and TOPICs are\nrelevant to your interview GOAL.\n\nA good interview guide paves the way for a deep,\nfree-flowing conversation.\nUse your interview goal to outline high-level\ntopics to cover.",
@@ -1010,8 +678,8 @@
     {
       "id": "9Z9p0h-H_IWKT1myKS0VN",
       "type": "rectangle",
-      "x": 608.3289203392707,
-      "y": 786.4907420580873,
+      "x": -813.5566501336383,
+      "y": 1069.6295485391145,
       "width": 313.6426725436092,
       "height": 108,
       "angle": 0,
@@ -1024,13 +692,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5d",
+      "index": "b6R",
       "roundness": {
         "type": 3
       },
       "seed": 491566216,
-      "version": 2226,
-      "versionNonce": 390966697,
+      "version": 2325,
+      "versionNonce": 447000932,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1046,15 +714,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006551600,
+      "updated": 1746007825099,
       "link": null,
       "locked": false
     },
     {
       "id": "72CwQaquN7coGVRqRoACz",
       "type": "text",
-      "x": 613.3289203392707,
-      "y": 791.8907420580873,
+      "x": -808.5566501336383,
+      "y": 1075.0295485391143,
       "width": 242.96392822265625,
       "height": 97.2,
       "angle": 0,
@@ -1067,14 +735,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5e",
+      "index": "b6S",
       "roundness": null,
       "seed": 30729096,
-      "version": 898,
-      "versionNonce": 267132263,
+      "version": 997,
+      "versionNonce": 1699800292,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007825099,
       "link": null,
       "locked": false,
       "text": "semistructured\ninterview",
@@ -1090,10 +758,10 @@
     {
       "id": "roamTcDaWTA2vfV9WiDnk",
       "type": "arrow",
-      "x": 888.1863949200355,
-      "y": 625.2071964462688,
-      "width": 137.73292767272835,
-      "height": 157.40250568575755,
+      "x": -531.8631774412153,
+      "y": 906.4772913525763,
+      "width": 141.7755628234953,
+      "height": 161.8371064983852,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1104,14 +772,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5f",
+      "index": "b6T",
       "roundness": null,
       "seed": 1967399304,
-      "version": 124,
-      "versionNonce": 1249644681,
+      "version": 421,
+      "versionNonce": 53127268,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007825099,
       "link": null,
       "locked": false,
       "points": [
@@ -1120,20 +788,20 @@
           0
         ],
         [
-          -137.73292767272835,
-          157.40250568575755
+          -141.7755628234953,
+          161.8371064983852
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "o1uvRAK4reumdP4B_iISz",
-        "focus": -0.0372233779827424,
-        "gap": 8.509325627788144
+        "focus": -0.03872698206642824,
+        "gap": 4.836140793339268
       },
       "endBinding": {
         "elementId": "9Z9p0h-H_IWKT1myKS0VN",
-        "focus": -0.3208675991501654,
-        "gap": 10.766328606841512
+        "focus": -0.3202026284253744,
+        "gap": 3.881039926061021
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -1142,10 +810,10 @@
     {
       "id": "0E_zGkvq7TD9YKUsqA3sR",
       "type": "arrow",
-      "x": 757.5599151761944,
-      "y": 898.4295690326638,
-      "width": 0.4384001069814758,
-      "height": 94.1019224243854,
+      "x": -664.3131273233832,
+      "y": 1178.9650356155798,
+      "width": 0.46224620679799955,
+      "height": 99.36416572844905,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1156,14 +824,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5g",
+      "index": "b6U",
       "roundness": null,
       "seed": 1645276808,
-      "version": 255,
-      "versionNonce": 930207879,
+      "version": 552,
+      "versionNonce": 1476393956,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007825099,
       "link": null,
       "locked": false,
       "points": [
@@ -1172,20 +840,20 @@
           0
         ],
         [
-          -0.4384001069814758,
-          94.1019224243854
+          -0.46224620679799955,
+          99.36416572844905
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "9Z9p0h-H_IWKT1myKS0VN",
-        "focus": 0.048310214556730555,
-        "gap": 10.913419155108613
+        "focus": 0.04660521791181429,
+        "gap": 3.938826974576614
       },
       "endBinding": {
         "elementId": "UDSt5eU1RHAU9BEN5XWQU",
-        "focus": -0.49182997429869885,
-        "gap": 9.79373384012365
+        "focus": -0.4897778771476631,
+        "gap": 5.4984893948878835
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -1194,8 +862,8 @@
     {
       "id": "9RAUB_OMovgkcXSNy4Amc",
       "type": "rectangle",
-      "x": 636.5651451209421,
-      "y": 1498.6507049803133,
+      "x": -785.3204253519668,
+      "y": 1782.0189960702962,
       "width": 470.6294472462398,
       "height": 514.1125236611565,
       "angle": 0,
@@ -1208,13 +876,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5h",
+      "index": "b6V",
       "roundness": {
         "type": 3
       },
       "seed": 1533588104,
-      "version": 2219,
-      "versionNonce": 2050880967,
+      "version": 2317,
+      "versionNonce": 606285404,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1250,15 +918,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006687687,
+      "updated": 1746007499687,
       "link": null,
       "locked": false
     },
     {
       "id": "aCLQEESZjT3bTdNfXGUrD",
       "type": "text",
-      "x": 641.5651451209421,
-      "y": 1526.2069668108916,
+      "x": -780.3204253519668,
+      "y": 1809.5752579008745,
       "width": 456.159423828125,
       "height": 459,
       "angle": 0,
@@ -1271,14 +939,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5i",
+      "index": "b6W",
       "roundness": null,
       "seed": 1472274824,
-      "version": 1616,
-      "versionNonce": 1490235303,
+      "version": 1714,
+      "versionNonce": 1021641436,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007499687,
       "link": null,
       "locked": false,
       "text": "If you are not sure where to start,\nwe recommend questions that cover these four\nhigh-level topics :\n\n1. Success Metrics\n    what success looks like, tangibly, in their eyes\n\n2. Priorities\n    what they know or hear from users and\ncustomers and want to address.\n\n3. History and expertise\n    questions that target their unique perspective or\nrole.\n\n4. Process and workflow\n    how they want to be kept in the loop.",
@@ -1294,8 +962,8 @@
     {
       "id": "SlANYHnJMUcUd-sCp9T27",
       "type": "arrow",
-      "x": 872.8702676280968,
-      "y": 1313.272131692397,
+      "x": -549.0153028448121,
+      "y": 1596.6404227823798,
       "width": 1.1027623258996755e-11,
       "height": 177.64854054859188,
       "angle": 0,
@@ -1308,14 +976,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5j",
+      "index": "b6X",
       "roundness": null,
       "seed": 44280456,
-      "version": 196,
-      "versionNonce": 888554057,
+      "version": 492,
+      "versionNonce": 2703716,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007499925,
       "link": null,
       "locked": false,
       "points": [
@@ -1331,13 +999,13 @@
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "UDSt5eU1RHAU9BEN5XWQU",
-        "focus": -0.0038009619174408037,
-        "gap": 4.030026662921955
+        "focus": -0.0038009619172864966,
+        "gap": 2.244795328382679
       },
       "endBinding": {
         "elementId": "9RAUB_OMovgkcXSNy4Amc",
-        "focus": 0.004208826667587343,
-        "gap": 10.497151566883304
+        "focus": 0.004208826667591759,
+        "gap": 7.7300327393245425
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -1346,8 +1014,8 @@
     {
       "id": "eya_zckewfoQ4pxSx4p8x",
       "type": "rectangle",
-      "x": -392.62460488299905,
-      "y": 1385.5048209528768,
+      "x": -1814.510175355908,
+      "y": 1668.8731120428597,
       "width": 470.6294472462398,
       "height": 270.5923350842384,
       "angle": 0,
@@ -1360,13 +1028,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5k",
+      "index": "b6Y",
       "roundness": {
         "type": 3
       },
       "seed": 504123384,
-      "version": 3270,
-      "versionNonce": 1287894215,
+      "version": 3368,
+      "versionNonce": 1802906460,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1378,15 +1046,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006605478,
+      "updated": 1746007499688,
       "link": null,
       "locked": false
     },
     {
       "id": "uk99vIMuFqkPXCeIlGkvz",
       "type": "text",
-      "x": -387.62460488299905,
-      "y": 1412.800988494996,
+      "x": -1809.510175355908,
+      "y": 1696.169279584979,
       "width": 433.859375,
       "height": 216,
       "angle": 0,
@@ -1399,14 +1067,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5l",
+      "index": "b6Z",
       "roundness": null,
       "seed": 1626312952,
-      "version": 2928,
-      "versionNonce": 1478460391,
+      "version": 3026,
+      "versionNonce": 2060476380,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006605478,
+      "updated": 1746007499688,
       "link": null,
       "locked": false,
       "text": "[ 01-Introduction ]\n\n1. I don't believe we've had the opportunity to\nwork together before. Can you tell me a little bit\nabout your role?\n\n2. What are you currently working on here at\n<organization name> ?",
@@ -1422,8 +1090,8 @@
     {
       "id": "JyWEIiDiQSFh2jAmr1wi-",
       "type": "arrow",
-      "x": 695.371958950421,
-      "y": 2017.76322864147,
+      "x": -726.513611522488,
+      "y": 2301.131519731453,
       "width": 612.3671165871802,
       "height": 517.2940031639478,
       "angle": 0,
@@ -1436,14 +1104,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5m",
+      "index": "b6a",
       "roundness": null,
       "seed": 974140040,
-      "version": 1189,
-      "versionNonce": 1128199719,
+      "version": 1481,
+      "versionNonce": 782702812,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006605489,
+      "updated": 1746007499688,
       "link": null,
       "locked": false,
       "points": [
@@ -1497,8 +1165,8 @@
     {
       "id": "IPkz_wajQySZl0IJVD-VI",
       "type": "rectangle",
-      "x": -392.5246044780092,
-      "y": 1762.760914532611,
+      "x": -1814.4101749509182,
+      "y": 2046.1292056225939,
       "width": 470.6294472462398,
       "height": 393.08266918772574,
       "angle": 0,
@@ -1511,13 +1179,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5n",
+      "index": "b6b",
       "roundness": {
         "type": 3
       },
       "seed": 1012101624,
-      "version": 3099,
-      "versionNonce": 1262194151,
+      "version": 3197,
+      "versionNonce": 1418173788,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1529,15 +1197,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006589274,
+      "updated": 1746007499688,
       "link": null,
       "locked": false
     },
     {
       "id": "LGuM3A6AAhz8u8HGwIMZi",
       "type": "text",
-      "x": -387.5246044780092,
-      "y": 1797.3022491264737,
+      "x": -1809.4101749509182,
+      "y": 2080.6705402164566,
       "width": 454.19940185546875,
       "height": 324,
       "angle": 0,
@@ -1550,14 +1218,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5o",
+      "index": "b6c",
       "roundness": null,
       "seed": 771912440,
-      "version": 3108,
-      "versionNonce": 679426311,
+      "version": 3206,
+      "versionNonce": 1692635612,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006589274,
+      "updated": 1746007499688,
       "link": null,
       "locked": false,
       "text": "[ 02-Success Metrics ]\n\n3. What are you aiming to achieve with that work?\nWhy is that important to the organization?\n\n4. Do you have specific goals you are trying to\nachieve or metrics you're tracking ?\n\n5. What does success look like for you and your\nteam?\n( You can timebox this for the year, quarter, half\nyear, etc. )",
@@ -1573,8 +1241,8 @@
     {
       "id": "gdUUcWnxQQvwyRZekbc1q",
       "type": "ellipse",
-      "x": 559.6758044887938,
-      "y": 2556.517040275346,
+      "x": -862.2097659841152,
+      "y": 2839.885331365329,
       "width": 0.20181243713545882,
       "height": 0.19550579847509653,
       "angle": 0,
@@ -1587,24 +1255,24 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5p",
+      "index": "b6d",
       "roundness": {
         "type": 2
       },
       "seed": 546944136,
-      "version": 6,
-      "versionNonce": 332634857,
+      "version": 104,
+      "versionNonce": 253086428,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006551600,
+      "updated": 1746007499688,
       "link": null,
       "locked": false
     },
     {
       "id": "at3zi2DcZGAqZGh8CiDnL",
       "type": "arrow",
-      "x": 786.351127954553,
-      "y": 2017.76322864147,
+      "x": -635.534442518356,
+      "y": 2301.131519731453,
       "width": 943.6610088094424,
       "height": 330.0023141088591,
       "angle": 0,
@@ -1617,14 +1285,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5q",
+      "index": "b6e",
       "roundness": null,
       "seed": 1020868344,
-      "version": 351,
-      "versionNonce": 2060182343,
+      "version": 643,
+      "versionNonce": 1481641820,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006590359,
+      "updated": 1746007499688,
       "link": null,
       "locked": false,
       "points": [
@@ -1682,8 +1350,8 @@
     {
       "id": "3yDG1IVpzlymw6rBuoDKn",
       "type": "rectangle",
-      "x": -392.5246044428349,
-      "y": 2322.6279501204535,
+      "x": -1814.410174915744,
+      "y": 2605.996241210437,
       "width": 470.6294472462398,
       "height": 393.08266918772574,
       "angle": 0,
@@ -1696,13 +1364,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5r",
+      "index": "b6f",
       "roundness": {
         "type": 3
       },
       "seed": 1064678792,
-      "version": 3734,
-      "versionNonce": 1493392487,
+      "version": 3832,
+      "versionNonce": 2060305372,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1714,15 +1382,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006596440,
+      "updated": 1746007499688,
       "link": null,
       "locked": false
     },
     {
       "id": "tya_bMJpZVpGMe6uGlPB1",
       "type": "text",
-      "x": -387.5246044428349,
-      "y": 2370.6692847143163,
+      "x": -1809.410174915744,
+      "y": 2654.037575804299,
       "width": 424.239501953125,
       "height": 297,
       "angle": 0,
@@ -1735,14 +1403,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5s",
+      "index": "b6g",
       "roundness": null,
       "seed": 1496695944,
-      "version": 4101,
-      "versionNonce": 2034841479,
+      "version": 4199,
+      "versionNonce": 1554049116,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006596440,
+      "updated": 1746007499688,
       "link": null,
       "locked": false,
       "text": "[ 03-Priorities ]\n\n6. What challenges or business issues are\ncurrently top priorities for you? your team?\n\n7. I'm currently < designing / researching /\nconducting discovery > on < insert problem,\nproject, product, area of the business >. Do you\nhave any insight you'd like to share related to\nthose efforts?\n",
@@ -1758,8 +1426,8 @@
     {
       "id": "m_3r8N086YjbB-S9p8djU",
       "type": "arrow",
-      "x": 871.779868744062,
-      "y": 2017.76322864147,
+      "x": -550.105701728847,
+      "y": 2301.131519731453,
       "width": 1029.089749563777,
       "height": 299.8647214789835,
       "angle": 0,
@@ -1772,14 +1440,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5t",
+      "index": "b6h",
       "roundness": null,
       "seed": 450817031,
-      "version": 1027,
-      "versionNonce": 1181134503,
+      "version": 1319,
+      "versionNonce": 1666154844,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006596440,
+      "updated": 1746007499689,
       "link": null,
       "locked": false,
       "points": [
@@ -1829,8 +1497,8 @@
     {
       "id": "K0iR5hKoSJ9dGMh6t4hkI",
       "type": "rectangle",
-      "x": 194.4069182668132,
-      "y": 2322.6279508835646,
+      "x": -1227.4786522060958,
+      "y": 2605.9962419735475,
       "width": 470.6294472462398,
       "height": 393.08266918772574,
       "angle": 0,
@@ -1843,13 +1511,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5u",
+      "index": "b6i",
       "roundness": {
         "type": 3
       },
       "seed": 2058461545,
-      "version": 3526,
-      "versionNonce": 797942503,
+      "version": 3624,
+      "versionNonce": 420410844,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1861,15 +1529,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006613277,
+      "updated": 1746007499689,
       "link": null,
       "locked": false
     },
     {
       "id": "AiO5c4r7x7U3TJprNGJy3",
       "type": "text",
-      "x": 199.4069182668132,
-      "y": 2343.6692854774274,
+      "x": -1222.4786522060958,
+      "y": 2627.0375765674107,
       "width": 453.199462890625,
       "height": 351,
       "angle": 0,
@@ -1882,14 +1550,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5v",
+      "index": "b6j",
       "roundness": null,
       "seed": 1286310985,
-      "version": 4378,
-      "versionNonce": 1938337287,
+      "version": 4476,
+      "versionNonce": 1072421468,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006613277,
+      "updated": 1746007499689,
       "link": null,
       "locked": false,
       "text": "[ 04-History and Expertise ]\n\n8. Can you tell me about any CONSTRAINTS\nrelated to the work I'm doing that you think would\nbe important for me to know about?\n\n9. Can you tell me about any SOLUTIONS to this\nproblem or similar projects you've tried before? \nCould be technical, process-related, people-\nrelated, and so on? \nHow did it turn out? \nWhy do you think it succeeded or missed the\nmark?",
@@ -1905,8 +1573,8 @@
     {
       "id": "Aqx42yTrNiddpR8EAjGHr",
       "type": "arrow",
-      "x": 898.8300653415856,
-      "y": 2017.76322864147,
+      "x": -523.0555051313233,
+      "y": 2301.131519731453,
       "width": 469.20842345165255,
       "height": 299.86472224209456,
       "angle": 0,
@@ -1919,14 +1587,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5w",
+      "index": "b6k",
       "roundness": null,
       "seed": 1975447047,
-      "version": 605,
-      "versionNonce": 1833562759,
+      "version": 897,
+      "versionNonce": 570815324,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006613445,
+      "updated": 1746007499689,
       "link": null,
       "locked": false,
       "points": [
@@ -1976,8 +1644,8 @@
     {
       "id": "Q6loYwppJt85_Hn1xOYJ-",
       "type": "rectangle",
-      "x": 781.3384410684619,
-      "y": 2317.3288905318327,
+      "x": -640.5471294044471,
+      "y": 2600.6971816218156,
       "width": 470.6294472462398,
       "height": 393.08266918772574,
       "angle": 0,
@@ -1990,13 +1658,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5x",
+      "index": "b6l",
       "roundness": {
         "type": 3
       },
       "seed": 683897754,
-      "version": 3652,
-      "versionNonce": 235529863,
+      "version": 3750,
+      "versionNonce": 1546069980,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2008,15 +1676,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006631529,
+      "updated": 1746007499689,
       "link": null,
       "locked": false
     },
     {
       "id": "CLtoyxd-WJQj7mRfcO3Jv",
       "type": "text",
-      "x": 786.3384410684619,
-      "y": 2419.3702251256955,
+      "x": -635.5471294044471,
+      "y": 2702.738516215679,
       "width": 446.2394104003906,
       "height": 189,
       "angle": 0,
@@ -2029,14 +1697,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5y",
+      "index": "b6m",
       "roundness": null,
       "seed": 1376120922,
-      "version": 4704,
-      "versionNonce": 2100919719,
+      "version": 4802,
+      "versionNonce": 355322972,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006631529,
+      "updated": 1746007499689,
       "link": null,
       "locked": false,
       "text": "[ 05-Process and Workflow ]\n\n10. What is your ideal level of engagement in the\nproject?\n\n11. What is your preferred communication\nmethod?",
@@ -2052,8 +1720,8 @@
     {
       "id": "1cl9ro1dMoQuSmE4q9pnz",
       "type": "arrow",
-      "x": 924.823408566404,
-      "y": 2016.4483234414336,
+      "x": -497.0621619065049,
+      "y": 2299.8166145314162,
       "width": 2.1558943619096453,
       "height": 295.487015451625,
       "angle": 0,
@@ -2066,14 +1734,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b5z",
+      "index": "b6n",
       "roundness": null,
       "seed": 2082204711,
-      "version": 411,
-      "versionNonce": 212414663,
+      "version": 707,
+      "versionNonce": 483080292,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1746006631530,
+      "boundElements": [],
+      "updated": 1746007499925,
       "link": null,
       "locked": false,
       "points": [
@@ -2089,13 +1757,13 @@
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "9RAUB_OMovgkcXSNy4Amc",
-        "focus": -0.2151015544400816,
-        "gap": 5.000000000000227
+        "focus": -0.21519079204708225,
+        "gap": 3.6850947999637356
       },
       "endBinding": {
         "elementId": "Q6loYwppJt85_Hn1xOYJ-",
-        "focus": -0.3810805392138985,
-        "gap": 8.380375141939567
+        "focus": -0.3725491595566628,
+        "gap": 5.393551638774625
       },
       "startArrowhead": null,
       "endArrowhead": "arrow",
@@ -2107,8 +1775,8 @@
     {
       "id": "MpQVvhQ22sBKPL75nbZvI",
       "type": "rectangle",
-      "x": 1368.2699628849402,
-      "y": 2317.6279514968924,
+      "x": -53.615607587968725,
+      "y": 2600.9962425868753,
       "width": 470.6294472462398,
       "height": 393.08266918772574,
       "angle": 0,
@@ -2121,13 +1789,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b60",
+      "index": "b6o",
       "roundness": {
         "type": 3
       },
       "seed": 1100115177,
-      "version": 3972,
-      "versionNonce": 1410494471,
+      "version": 4070,
+      "versionNonce": 546724316,
       "isDeleted": false,
       "boundElements": [
         {
@@ -2139,15 +1807,15 @@
           "type": "arrow"
         }
       ],
-      "updated": 1746006687688,
+      "updated": 1746007499689,
       "link": null,
       "locked": false
     },
     {
       "id": "pZoBufj84QZbyjz76Px14",
       "type": "text",
-      "x": 1373.2699628849402,
-      "y": 2460.169286090755,
+      "x": -48.615607587968725,
+      "y": 2743.5375771807385,
       "width": 458.09930419921875,
       "height": 108,
       "angle": 0,
@@ -2160,14 +1828,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b61",
+      "index": "b6p",
       "roundness": null,
       "seed": 610723785,
-      "version": 5097,
-      "versionNonce": 2117177479,
+      "version": 5195,
+      "versionNonce": 686210652,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1746006674388,
+      "updated": 1746007499689,
       "link": null,
       "locked": false,
       "text": "[ 06-Ending ]\n\nIs there anything else that would be helpful for me\nto know?",
@@ -2183,8 +1851,8 @@
     {
       "id": "O8wqTXdElVf3XDe5Zbwvn",
       "type": "arrow",
-      "x": 1022.1022185743332,
-      "y": 2017.76322864147,
+      "x": -399.7833518985758,
+      "y": 2301.131519731453,
       "width": 462.6599447880549,
       "height": 294.8647228554223,
       "angle": 0,
@@ -2197,14 +1865,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b62",
+      "index": "b6q",
       "roundness": null,
       "seed": 1837459943,
-      "version": 45,
-      "versionNonce": 1051305191,
+      "version": 337,
+      "versionNonce": 748148572,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1746006687688,
+      "boundElements": [],
+      "updated": 1746007499689,
       "link": null,
       "locked": false,
       "points": [
@@ -2250,6 +1918,398 @@
       "fixedSegments": null,
       "startIsSpecial": null,
       "endIsSpecial": null
+    },
+    {
+      "id": "LtK0wpXWwo3KoF1-AkUJL",
+      "type": "rectangle",
+      "x": 633.7833763136488,
+      "y": 262.7843827598009,
+      "width": 316.1309673219773,
+      "height": 100.58188514369505,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6r",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 961318748,
+      "version": 876,
+      "versionNonce": 548427740,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "0Am9J3Vo5VU0PFt1r3QeU"
+        },
+        {
+          "id": "Wdmm51dBBw9PzP_Z6iPFL",
+          "type": "arrow"
+        },
+        {
+          "id": "CBYm5VvvHW5N9Vsv5QBBB",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1746008616873,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "0Am9J3Vo5VU0PFt1r3QeU",
+      "type": "text",
+      "x": 699.3489667861609,
+      "y": 286.0753253316484,
+      "width": 184.99978637695312,
+      "height": 54,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6s",
+      "roundness": null,
+      "seed": 138036188,
+      "version": 1133,
+      "versionNonce": 1360067676,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746008616873,
+      "link": null,
+      "locked": false,
+      "text": "3. Introduce yourself\nand create Rapport",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "LtK0wpXWwo3KoF1-AkUJL",
+      "originalText": "3. Introduce yourself\nand create Rapport",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "Wdmm51dBBw9PzP_Z6iPFL",
+      "type": "arrow",
+      "x": 677.47299440235,
+      "y": -222.98006393566823,
+      "width": 0,
+      "height": 481.45636637890516,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6u",
+      "roundness": null,
+      "seed": 1601491548,
+      "version": 98,
+      "versionNonce": 1707979492,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746008620261,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          481.45636637890516
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "0lHeU3IVmyBr5CscumHXU",
+        "focus": -0.0391546865678818,
+        "gap": 7.587695812202071
+      },
+      "endBinding": {
+        "elementId": "LtK0wpXWwo3KoF1-AkUJL",
+        "focus": -0.7235979856145912,
+        "gap": 4.308080316563974
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "I6BfZlwVzwSDf2DMC1jxC",
+      "type": "rectangle",
+      "x": 424.87180709588097,
+      "y": 462.9860392232755,
+      "width": 639.0674667052918,
+      "height": 378.7487711199722,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6v",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1467044708,
+      "version": 919,
+      "versionNonce": 1673942620,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "LWRnT-5nIiB0NUUNRNuG9"
+        },
+        {
+          "id": "CBYm5VvvHW5N9Vsv5QBBB",
+          "type": "arrow"
+        },
+        {
+          "id": "v7eiOqSURMHIBVSk6RUHA",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1746008602837,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "LWRnT-5nIiB0NUUNRNuG9",
+      "type": "text",
+      "x": 429.87180709588097,
+      "y": 503.8604247832616,
+      "width": 607.59912109375,
+      "height": 297,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6w",
+      "roundness": null,
+      "seed": 1681475300,
+      "version": 1653,
+      "versionNonce": 120888676,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746007810127,
+      "link": null,
+      "locked": false,
+      "text": "You'll notice above that we included a few questions as a part of an\nintroduction.\n\nThese questions are important for \n- creating rapport \n- and aid long-term successful relationship with the stakeholder\n\nWe like to include a few sentences \n- about ourselves\n- the purpose of the interview\n- and a request for transparency and honesty",
+      "fontSize": 20,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "I6BfZlwVzwSDf2DMC1jxC",
+      "originalText": "You'll notice above that we included a few questions as a part of an introduction.\n\nThese questions are important for \n- creating rapport \n- and aid long-term successful relationship with the stakeholder\n\nWe like to include a few sentences \n- about ourselves\n- the purpose of the interview\n- and a request for transparency and honesty",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "CBYm5VvvHW5N9Vsv5QBBB",
+      "type": "arrow",
+      "x": 708.9253727344798,
+      "y": 370.7685551614626,
+      "width": 0,
+      "height": 86.99059316658418,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6x",
+      "roundness": null,
+      "seed": 1883348828,
+      "version": 104,
+      "versionNonce": 1610119268,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746008623330,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          86.99059316658418
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "LtK0wpXWwo3KoF1-AkUJL",
+        "focus": 0.5246147692687168,
+        "gap": 7.402287257966634
+      },
+      "endBinding": {
+        "elementId": "I6BfZlwVzwSDf2DMC1jxC",
+        "focus": -0.38448291138610785,
+        "gap": 10.095937599626723
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "v6_CH17jxAwtORgTKDrGh",
+      "type": "rectangle",
+      "x": 424.59841866034327,
+      "y": 1005.358862778663,
+      "width": 751.2891674701879,
+      "height": 526.9589257816027,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6y",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 742790748,
+      "version": 1057,
+      "versionNonce": 2043556444,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "CiBBEM39xZMCLOJzApGan"
+        },
+        {
+          "id": "v7eiOqSURMHIBVSk6RUHA",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1746008654306,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "CiBBEM39xZMCLOJzApGan",
+      "type": "text",
+      "x": 429.59841866034327,
+      "y": 1031.3383256694644,
+      "width": 737,
+      "height": 475,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6z",
+      "roundness": null,
+      "seed": 275442396,
+      "version": 2727,
+      "versionNonce": 108679908,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746008655328,
+      "link": null,
+      "locked": false,
+      "text": "A FEW SENTENCES\n\n\nHello. Thank you for agreeing to speak with me today.\nMy name is <your name>, and I work with <team or manager> and we're\nworking on a <project / initiative> to learn more about < problem,\nproject, feature, etc.>\n\nI'm speaking with < other leaders, team members, stakeholders,\npeople > in the organization this week to get your perspective on\nthe current experiences. We're excited to get your perspective.\n\nI'll ask you a few questions today to get your feedback and input.\nThere are no right or wrong answers; feel free to be open and\nhonest; anything you share today will not be distributed or\nassociated back to you. You also won't hurt my feelings with any\nnegative feedback; we need it to learn. We will take about <XX>\nminutes today, is that acceptable with your schedule?\n",
+      "fontSize": 20,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "v6_CH17jxAwtORgTKDrGh",
+      "originalText": "A FEW SENTENCES\n\n\nHello. Thank you for agreeing to speak with me today.\nMy name is <your name>, and I work with <team or manager> and we're working on a <project / initiative> to learn more about < problem, project, feature, etc.>\n\nI'm speaking with < other leaders, team members, stakeholders, people > in the organization this week to get your perspective on the current experiences. We're excited to get your perspective.\n\nI'll ask you a few questions today to get your feedback and input. There are no right or wrong answers; feel free to be open and honest; anything you share today will not be distributed or associated back to you. You also won't hurt my feelings with any negative feedback; we need it to learn. We will take about <XX> minutes today, is that acceptable with your schedule?\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "v7eiOqSURMHIBVSk6RUHA",
+      "type": "arrow",
+      "x": 480.58176813245177,
+      "y": 842.4439736889027,
+      "width": 2.160858907322165,
+      "height": 155.30104094614273,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b70",
+      "roundness": null,
+      "seed": 525973860,
+      "version": 88,
+      "versionNonce": 1496468316,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1746008654306,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2.160858907322165,
+          155.30104094614273
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "I6BfZlwVzwSDf2DMC1jxC",
+        "focus": 0.8271088482163116,
+        "gap": 1.3878913540575013
+      },
+      "endBinding": {
+        "elementId": "v6_CH17jxAwtORgTKDrGh",
+        "focus": -0.8271088494168559,
+        "gap": 13.133426713412973
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
