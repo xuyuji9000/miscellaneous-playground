@@ -20,13 +20,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b1t",
+      "index": "bBO",
       "roundness": {
         "type": 3
       },
       "seed": 1037084648,
-      "version": 124,
-      "versionNonce": 1121418359,
+      "version": 125,
+      "versionNonce": 879259592,
       "isDeleted": false,
       "boundElements": [
         {
@@ -42,7 +42,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -63,14 +63,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b1u",
+      "index": "bBP",
       "roundness": null,
       "seed": 1410366058,
-      "version": 129,
-      "versionNonce": 365292153,
+      "version": 130,
+      "versionNonce": 2020430008,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "WHY\nStakeholder Interview",
@@ -100,13 +100,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b1v",
+      "index": "bBQ",
       "roundness": {
         "type": 3
       },
       "seed": 1308003224,
-      "version": 2290,
-      "versionNonce": 29283735,
+      "version": 2291,
+      "versionNonce": 207042248,
       "isDeleted": false,
       "boundElements": [
         {
@@ -118,7 +118,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -139,14 +139,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b1w",
+      "index": "bBR",
       "roundness": null,
       "seed": 1612147562,
-      "version": 2472,
-      "versionNonce": 510931801,
+      "version": 2473,
+      "versionNonce": 1894939064,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "2. Understanding of Landscape\n\ngive us an understanding of our\nproject's landscape",
@@ -176,13 +176,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b1x",
+      "index": "bBS",
       "roundness": {
         "type": 3
       },
       "seed": 1028260328,
-      "version": 2347,
-      "versionNonce": 1486752439,
+      "version": 2348,
+      "versionNonce": 685055432,
       "isDeleted": false,
       "boundElements": [
         {
@@ -194,7 +194,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -215,14 +215,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b1y",
+      "index": "bBT",
       "roundness": null,
       "seed": 216180790,
-      "version": 2458,
-      "versionNonce": 270950457,
+      "version": 2459,
+      "versionNonce": 1357546168,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "1. Stakeholder Engagement\n\nstakeholder interview drives successful\nstakeholder engagement",
@@ -252,13 +252,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b1z",
+      "index": "bBU",
       "roundness": {
         "type": 3
       },
       "seed": 1665285047,
-      "version": 2411,
-      "versionNonce": 874093527,
+      "version": 2412,
+      "versionNonce": 1795040456,
       "isDeleted": false,
       "boundElements": [
         {
@@ -266,7 +266,7 @@
           "id": "NAxOz0BwOvZowd_vGE5AG"
         }
       ],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -287,14 +287,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b20",
+      "index": "bBV",
       "roundness": null,
       "seed": 487566551,
-      "version": 2765,
-      "versionNonce": 1757409561,
+      "version": 2766,
+      "versionNonce": 1727622072,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "This UNDERSTANDING can help us\n \n1. navigate obstacles before they arise \n2. and keep everyone engaged and\nsupportive.",
@@ -324,16 +324,16 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b21",
+      "index": "bBW",
       "roundness": {
         "type": 2
       },
       "seed": 562433977,
-      "version": 622,
-      "versionNonce": 2017855735,
+      "version": 623,
+      "versionNonce": 812534728,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -357,7 +357,7 @@
       "id": "2qzosg7hQi44rmhVDQC-V",
       "type": "rectangle",
       "x": -140.11244763076593,
-      "y": 407.74090149423455,
+      "y": 407.6450818375602,
       "width": 294.25895177649136,
       "height": 75,
       "angle": 0,
@@ -370,13 +370,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b22",
+      "index": "bBX",
       "roundness": {
         "type": 3
       },
       "seed": 1771789241,
-      "version": 2750,
-      "versionNonce": 1222747673,
+      "version": 2754,
+      "versionNonce": 466789048,
       "isDeleted": false,
       "boundElements": [
         {
@@ -385,10 +385,6 @@
         },
         {
           "id": "P-7-jum42ZkAs62CfEh95",
-          "type": "arrow"
-        },
-        {
-          "id": "Ep899mARnyLxbOu4z1dKg",
           "type": "arrow"
         },
         {
@@ -402,18 +398,22 @@
         {
           "id": "3gRbUOcY-4ANRqGq3wv37",
           "type": "arrow"
+        },
+        {
+          "id": "Ep899mARnyLxbOu4z1dKg",
+          "type": "arrow"
         }
       ],
-      "updated": 1745981561489,
+      "updated": 1746149520308,
       "link": null,
       "locked": false
     },
     {
       "id": "awcI4IawLCuJ_1urQQSmq",
       "type": "text",
-      "x": -13.790955140957749,
-      "y": 434.44090149423454,
-      "width": 41.615966796875,
+      "x": -20.278954103360093,
+      "y": 434.3450818375602,
+      "width": 54.59196472167969,
       "height": 21.6,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -425,33 +425,33 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b23",
+      "index": "bBY",
       "roundness": null,
       "seed": 1359576217,
-      "version": 2869,
-      "versionNonce": 1507293945,
+      "version": 2878,
+      "versionNonce": 596181176,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561489,
+      "updated": 1746149523003,
       "link": null,
       "locked": false,
-      "text": "Goals",
+      "text": "Actions",
       "fontSize": 16,
       "fontFamily": 6,
       "textAlign": "center",
       "verticalAlign": "middle",
       "containerId": "2qzosg7hQi44rmhVDQC-V",
-      "originalText": "Goals",
+      "originalText": "Actions",
       "autoResize": true,
       "lineHeight": 1.35
     },
     {
       "id": "P-7-jum42ZkAs62CfEh95",
       "type": "arrow",
-      "x": 464.93188420890755,
+      "x": 465.08838939220396,
       "y": 125.58499512751476,
-      "width": 402.936464967499,
-      "height": 278.38970583401647,
+      "width": 403.0344698881152,
+      "height": 278.2938861773421,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -462,14 +462,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b24",
+      "index": "bBZ",
       "roundness": null,
       "seed": 1406537818,
-      "version": 466,
-      "versionNonce": 2063578073,
+      "version": 469,
+      "versionNonce": 346248376,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561489,
+      "updated": 1746149520309,
       "link": null,
       "locked": false,
       "points": [
@@ -478,8 +478,8 @@
           0
         ],
         [
-          -402.936464967499,
-          278.38970583401647
+          -403.0344698881152,
+          278.2938861773421
         ]
       ],
       "lastCommittedPoint": null,
@@ -514,13 +514,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b25",
+      "index": "bBa",
       "roundness": {
         "type": 3
       },
       "seed": 1320604378,
-      "version": 3611,
-      "versionNonce": 1058483257,
+      "version": 3612,
+      "versionNonce": 1242823112,
       "isDeleted": false,
       "boundElements": [
         {
@@ -532,7 +532,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -553,14 +553,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b26",
+      "index": "bBb",
       "roundness": null,
       "seed": 2026596250,
-      "version": 3932,
-      "versionNonce": 397884697,
+      "version": 3933,
+      "versionNonce": 211248824,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "A. GATHER CONTEXT AND HISTORY\n\nevery project comes with history:\n1. the origin of the project\n2. known constraints\n3. solution tried before",
@@ -576,10 +576,10 @@
     {
       "id": "9raoEXBEskHRGgbPCRO2t",
       "type": "arrow",
-      "x": -144.70054831862512,
-      "y": 469.13710002770006,
+      "x": -144.7005483186253,
+      "y": 469.0412803710384,
       "width": 840.9008846803572,
-      "height": 109.21915743277083,
+      "height": 109.31497708943255,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -590,14 +590,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b27",
+      "index": "bBc",
       "roundness": null,
       "seed": 3499974,
-      "version": 1705,
-      "versionNonce": 614173401,
+      "version": 1708,
+      "versionNonce": 533200312,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746149520310,
       "link": null,
       "locked": false,
       "points": [
@@ -611,7 +611,7 @@
         ],
         [
           -840.9008846803572,
-          109.21915743277083
+          109.31497708943255
         ]
       ],
       "lastCommittedPoint": null,
@@ -657,13 +657,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b28",
+      "index": "bBd",
       "roundness": {
         "type": 3
       },
       "seed": 891257094,
-      "version": 4089,
-      "versionNonce": 376883129,
+      "version": 4090,
+      "versionNonce": 1667878840,
       "isDeleted": false,
       "boundElements": [
         {
@@ -671,7 +671,7 @@
           "id": "IKlBxz42oUleiXqy0f1sR"
         }
       ],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -692,14 +692,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b29",
+      "index": "bBe",
       "roundness": null,
       "seed": 148205638,
-      "version": 4822,
-      "versionNonce": 664234137,
+      "version": 4823,
+      "versionNonce": 1017522120,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "If you work in a large organization\nthere is almost always politics at play.\n\nStakeholder Interview\ncan help us \n- uncover and organize contextual variables\n- and historical baggage \nthat accompanies a project, prior kickstarting it.\n\n",
@@ -729,14 +729,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2A",
+      "index": "bBf",
       "roundness": null,
       "seed": 240690778,
-      "version": 1509,
-      "versionNonce": 296807801,
+      "version": 1510,
+      "versionNonce": 1711741112,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -773,13 +773,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2B",
+      "index": "bBg",
       "roundness": {
         "type": 3
       },
       "seed": 2110226118,
-      "version": 4512,
-      "versionNonce": 201774681,
+      "version": 4513,
+      "versionNonce": 874376904,
       "isDeleted": false,
       "boundElements": [
         {
@@ -787,7 +787,7 @@
           "id": "3f0TYAs8Ow_Q_yfZMjlso"
         }
       ],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -808,14 +808,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2C",
+      "index": "bBh",
       "roundness": null,
       "seed": 2134357510,
-      "version": 5246,
-      "versionNonce": 426550073,
+      "version": 5247,
+      "versionNonce": 403915192,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "having this KNOWLEDGE upfront, will lead to\n\n- a more robust design process\n- save time\n- avoid friction",
@@ -845,14 +845,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2D",
+      "index": "bBi",
       "roundness": null,
       "seed": 1192111962,
-      "version": 1360,
-      "versionNonce": 373675033,
+      "version": 1361,
+      "versionNonce": 386192840,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -889,13 +889,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2E",
+      "index": "bBj",
       "roundness": {
         "type": 3
       },
       "seed": 460147524,
-      "version": 2899,
-      "versionNonce": 1091032889,
+      "version": 2900,
+      "versionNonce": 1756515000,
       "isDeleted": false,
       "boundElements": [
         {
@@ -911,7 +911,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -932,14 +932,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2F",
+      "index": "bBk",
       "roundness": null,
       "seed": 1504395972,
-      "version": 3012,
-      "versionNonce": 359601367,
+      "version": 3013,
+      "versionNonce": 1786174664,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "Benefits",
@@ -969,14 +969,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2G",
+      "index": "bBl",
       "roundness": null,
       "seed": 188340804,
-      "version": 394,
-      "versionNonce": 207259673,
+      "version": 395,
+      "versionNonce": 1116222392,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -1017,14 +1017,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2H",
+      "index": "bBm",
       "roundness": null,
       "seed": 152444,
-      "version": 147,
-      "versionNonce": 1652842999,
+      "version": 148,
+      "versionNonce": 806355912,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -1069,14 +1069,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2I",
+      "index": "bBn",
       "roundness": null,
       "seed": 1631823300,
-      "version": 99,
-      "versionNonce": 1071914233,
+      "version": 100,
+      "versionNonce": 465108152,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981354369,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -1121,13 +1121,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2J",
+      "index": "bBo",
       "roundness": {
         "type": 3
       },
       "seed": 1425705924,
-      "version": 4009,
-      "versionNonce": 109439225,
+      "version": 4051,
+      "versionNonce": 823896248,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1139,7 +1139,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981561490,
+      "updated": 1746148729849,
       "link": null,
       "locked": false
     },
@@ -1160,14 +1160,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2K",
+      "index": "bBp",
       "roundness": null,
       "seed": 1622963012,
-      "version": 4759,
-      "versionNonce": 598761945,
+      "version": 4799,
+      "versionNonce": 1375365576,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746148729848,
       "link": null,
       "locked": false,
       "text": "B. IDENTIFY BUSINESS GOALS\n\nAs UX practitioners, we focus on our\nusers and their needs.\nIn CONTRAST our stakeholders focus\non business and its needs.",
@@ -1184,9 +1184,9 @@
       "id": "Ep899mARnyLxbOu4z1dKg",
       "type": "arrow",
       "x": -75.08291276083116,
-      "y": 487.74090149423455,
-      "width": 391.31912674053785,
-      "height": 90.615355891749,
+      "y": 487.6450818375602,
+      "width": 391.3191267405378,
+      "height": 90.71117554842334,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1197,14 +1197,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2L",
+      "index": "bBq",
       "roundness": null,
       "seed": 361098748,
-      "version": 1777,
-      "versionNonce": 1789034393,
+      "version": 1883,
+      "versionNonce": 743913656,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746149520311,
       "link": null,
       "locked": false,
       "points": [
@@ -1214,15 +1214,15 @@
         ],
         [
           0,
-          45.3076779458745
+          45.35558777421164
         ],
         [
-          -391.31912674053785,
-          45.3076779458745
+          -391.3191267405378,
+          45.35558777421164
         ],
         [
-          -391.31912674053785,
-          90.615355891749
+          -391.3191267405378,
+          90.71117554842334
         ]
       ],
       "lastCommittedPoint": null,
@@ -1268,13 +1268,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2M",
+      "index": "bBr",
       "roundness": {
         "type": 3
       },
       "seed": 1779728836,
-      "version": 4905,
-      "versionNonce": 289481849,
+      "version": 4906,
+      "versionNonce": 1044065976,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1282,7 +1282,7 @@
           "id": "HaXuxa-hKGAFKGS1_vUEr"
         }
       ],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -1303,14 +1303,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2N",
+      "index": "bBs",
       "roundness": null,
       "seed": 1797761348,
-      "version": 5858,
-      "versionNonce": 980954457,
+      "version": 5859,
+      "versionNonce": 962476232,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "This KNOWLEDGE \n\nensures that you \n- track the RIGHT METRICS \nto \n- prove project success, \nboth from\n- the business's\n- and the users' \npoint of view",
@@ -1340,13 +1340,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2O",
+      "index": "bBt",
       "roundness": {
         "type": 3
       },
       "seed": 772025980,
-      "version": 4372,
-      "versionNonce": 1033574969,
+      "version": 4373,
+      "versionNonce": 1028954040,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1354,7 +1354,7 @@
           "id": "5x_iJk9pvl2Stn6N8b2j9"
         }
       ],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -1375,14 +1375,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2P",
+      "index": "bBu",
       "roundness": null,
       "seed": 1347174724,
-      "version": 1239,
-      "versionNonce": 999123737,
+      "version": 1240,
+      "versionNonce": 1638653896,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "Stakeholder interviews \n\n- can provide us with DATA and\nINSIGHTS about business problems\nand \n- can pinpoint business OBJECTIVES\nand KEY RESULTS.",
@@ -1412,14 +1412,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2Q",
+      "index": "bBv",
       "roundness": null,
       "seed": 903610948,
-      "version": 972,
-      "versionNonce": 1824694265,
+      "version": 973,
+      "versionNonce": 1197007032,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -1456,14 +1456,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2R",
+      "index": "bBw",
       "roundness": null,
       "seed": 1137997124,
-      "version": 2141,
-      "versionNonce": 792606937,
+      "version": 2142,
+      "versionNonce": 531408584,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -1500,13 +1500,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2S",
+      "index": "bBx",
       "roundness": {
         "type": 3
       },
       "seed": 1211768612,
-      "version": 4282,
-      "versionNonce": 1418966457,
+      "version": 4283,
+      "versionNonce": 2079066552,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1522,7 +1522,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -1543,14 +1543,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2T",
+      "index": "bBy",
       "roundness": null,
       "seed": 561158820,
-      "version": 5373,
-      "versionNonce": 803640985,
+      "version": 5374,
+      "versionNonce": 268209608,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "C. Align on a shared vision\n\nUnderstanding your stakeholders'\nVISION, beyond success metrics, is\nanother benefit of stakeholder\ninterview.\n",
@@ -1580,13 +1580,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2U",
+      "index": "bBz",
       "roundness": {
         "type": 3
       },
       "seed": 2080451095,
-      "version": 4374,
-      "versionNonce": 44208441,
+      "version": 4375,
+      "versionNonce": 1714557624,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1598,7 +1598,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -1619,14 +1619,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2V",
+      "index": "bC0",
       "roundness": null,
       "seed": 1889652535,
-      "version": 5468,
-      "versionNonce": 2123235865,
+      "version": 5469,
+      "versionNonce": 1538757832,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981561490,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "\nYou can assess where it differs from\nyour own vision, \nthen align on shared, collaborative\nvision for your work and the initiative\nat large.",
@@ -1642,10 +1642,10 @@
     {
       "id": "XEa-nVwraRRa9ywpcjmye",
       "type": "arrow",
-      "x": 6.917028257479728,
-      "y": 487.74090149423455,
-      "width": 0,
-      "height": 86.14037205090045,
+      "x": 6.917028257479747,
+      "y": 483.99040587502077,
+      "width": 7.105427357601002e-15,
+      "height": 94.16806193643731,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1656,14 +1656,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2W",
+      "index": "bC1",
       "roundness": null,
       "seed": 1112930711,
-      "version": 1060,
-      "versionNonce": 640920087,
+      "version": 1063,
+      "versionNonce": 309298872,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1745981561629,
+      "boundElements": [],
+      "updated": 1746149520310,
       "link": null,
       "locked": false,
       "points": [
@@ -1672,8 +1672,8 @@
           0
         ],
         [
-          0,
-          86.14037205090045
+          7.105427357601002e-15,
+          94.16806193643731
         ]
       ],
       "lastCommittedPoint": null,
@@ -1711,14 +1711,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2X",
+      "index": "bC2",
       "roundness": null,
       "seed": 1255706937,
-      "version": 1113,
-      "versionNonce": 801329239,
+      "version": 1114,
+      "versionNonce": 679066568,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1745981561629,
+      "boundElements": [],
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
@@ -1766,13 +1766,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2Y",
+      "index": "bC3",
       "roundness": {
         "type": 3
       },
       "seed": 694757175,
-      "version": 4440,
-      "versionNonce": 1736956791,
+      "version": 4441,
+      "versionNonce": 31900856,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1788,7 +1788,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981785550,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -1809,14 +1809,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2Z",
+      "index": "bC4",
       "roundness": null,
       "seed": 1716332631,
-      "version": 5660,
-      "versionNonce": 1071387575,
+      "version": 5661,
+      "versionNonce": 140444360,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981776658,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "D. Increase buy-in and communication\n\nStakeholder interviews help\nstakeholders feel heard.",
@@ -1833,9 +1833,9 @@
       "id": "3gRbUOcY-4ANRqGq3wv37",
       "type": "arrow",
       "x": 129.77180427178212,
-      "y": 487.74090149423455,
+      "y": 487.6450818375602,
       "width": 377.9419788986413,
-      "height": 90.61535632304185,
+      "height": 90.71117597971619,
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -1846,14 +1846,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2b",
+      "index": "bC5",
       "roundness": null,
       "seed": 2003776793,
-      "version": 877,
-      "versionNonce": 206950903,
+      "version": 880,
+      "versionNonce": 960360376,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1745981776660,
+      "boundElements": [],
+      "updated": 1746149520310,
       "link": null,
       "locked": false,
       "points": [
@@ -1863,15 +1863,15 @@
         ],
         [
           0,
-          45.307678161520926
+          45.355587989858066
         ],
         [
           377.9419788986413,
-          45.307678161520926
+          45.355587989858066
         ],
         [
           377.9419788986413,
-          90.61535632304185
+          90.71117597971619
         ]
       ],
       "lastCommittedPoint": null,
@@ -1917,13 +1917,13 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2d",
+      "index": "bC6",
       "roundness": {
         "type": 3
       },
       "seed": 969436887,
-      "version": 4587,
-      "versionNonce": 637708727,
+      "version": 4588,
+      "versionNonce": 1778608584,
       "isDeleted": false,
       "boundElements": [
         {
@@ -1935,7 +1935,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1745981785550,
+      "updated": 1746147838453,
       "link": null,
       "locked": false
     },
@@ -1956,14 +1956,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2e",
+      "index": "bC7",
       "roundness": null,
       "seed": 648182775,
-      "version": 6052,
-      "versionNonce": 2024703191,
+      "version": 6053,
+      "versionNonce": 966194872,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1745981776658,
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "text": "Stakeholder interviews\n\n1. make stakeholders more likely to\nbuy into the projects and its output.\n2. also help establish an open\ncommunication channel throughout the\ndesign process.",
@@ -1993,14 +1993,14 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
-      "index": "b2g",
+      "index": "bC8",
       "roundness": null,
       "seed": 1403322423,
-      "version": 83,
-      "versionNonce": 252400791,
+      "version": 84,
+      "versionNonce": 142799048,
       "isDeleted": false,
-      "boundElements": null,
-      "updated": 1745981785550,
+      "boundElements": [],
+      "updated": 1746147838453,
       "link": null,
       "locked": false,
       "points": [
