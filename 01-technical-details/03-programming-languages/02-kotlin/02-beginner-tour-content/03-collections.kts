@@ -1,3 +1,5 @@
+// 1. List
+
 // Read only list
 val readOnlyShapes = listOf("triangle", "square", "circle")
 println(readOnlyShapes)
@@ -26,3 +28,21 @@ shapes1.add("pentagon")
 println(shapes1)
 shapes1.remove("pentagon")
 println(shapes1)
+
+// 2. Set
+
+// Read Only set
+val readOnlyFruit = setOf("apple", "banana", "cherry", "cherry")
+println(readOnlyFruit)
+
+// Mutable set with explicit type declaration
+val fruit: MutableSet<String> = mutableSetOf("apple", "banana", "cherry", "cherry")
+println(fruit)
+
+// add and remove items from mutable set
+fruit.add("dragonfruit")
+println(fruit)
+
+fruit.remove("dragonfruit")
+println(fruit)
+    
