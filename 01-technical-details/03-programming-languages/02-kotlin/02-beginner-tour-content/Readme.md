@@ -2,6 +2,8 @@ Go through the [beginner tour contents](https://kotlinlang.org/docs/kotlin-tour-
 
 # Commands
 
+- excute kotlin script
+
 ``` shell
 kotlin ./01-hello-wrold.kts
 ```
