@@ -1,4 +1,4 @@
-var customer = 10
+var customers = 10
 
 // some customers leave the queue
 customers = 8
@@ -11,3 +11,15 @@ customers  /= 3             // Example of division : 10
 
 
 println(customers)
+
+// variable declared without initialization
+var d: Int
+
+// variable initialized
+d = 3
+
+// variable explicately typed and initialized
+val e: String = "hello"
+
+println(d)
+println(e)
