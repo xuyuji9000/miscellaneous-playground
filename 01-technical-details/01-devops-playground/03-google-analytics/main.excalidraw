@@ -1,0 +1,350 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "elements": [
+    {
+      "id": "_WpABxLDlO238rxeJsgyv",
+      "type": "rectangle",
+      "x": 425.66015625,
+      "y": 232.33203125,
+      "width": 266.703125,
+      "height": 254.98046874999997,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a8",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 539957060,
+      "version": 121,
+      "versionNonce": 1639911327,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "yHc5FLRkH1raGo1Q93dQq"
+        },
+        {
+          "id": "LwvMhJ-YyI8vXBGuQVKtG",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1746327135342,
+      "link": "https://www.youtube.com/watch?v=3faSiEX0jSg&list=PLI5YfMzCfRtZNBRmhTEJkcHYvN_x_wpxM&index=2",
+      "locked": false
+    },
+    {
+      "id": "yHc5FLRkH1raGo1Q93dQq",
+      "type": "text",
+      "x": 430.66015625,
+      "y": 241.022265625,
+      "width": 227.0078125,
+      "height": 237.60000000000002,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a9",
+      "roundness": null,
+      "seed": 1823834820,
+      "version": 251,
+      "versionNonce": 1469694911,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746327135342,
+      "link": null,
+      "locked": false,
+      "text": "TIMESTAMP: 00:11\n\nDigital Analytics\n\nis the process of collecting,\nmeasuring, analyzing data from\ndigital sources.\n\nsuch as\n- websites\n- mobile apps",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "_WpABxLDlO238rxeJsgyv",
+      "originalText": "TIMESTAMP: 00:11\n\nDigital Analytics\n\nis the process of collecting, measuring, analyzing data from digital sources.\n\nsuch as\n- websites\n- mobile apps",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "mcvb9LfumypNL6cBrujwQ",
+      "type": "rectangle",
+      "x": 868.6249997499999,
+      "y": 232.35156325,
+      "width": 266.703125,
+      "height": 224.8046875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1026965956,
+      "version": 246,
+      "versionNonce": 50093343,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "UfZEaTiRy69DY0zPUxDJe"
+        },
+        {
+          "id": "LwvMhJ-YyI8vXBGuQVKtG",
+          "type": "arrow"
+        },
+        {
+          "id": "clEkTvcIRynCKvWALPruR",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1746327148499,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "UfZEaTiRy69DY0zPUxDJe",
+      "type": "text",
+      "x": 873.6249997499999,
+      "y": 247.55390699999998,
+      "width": 223.39181518554688,
+      "height": 194.4,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": null,
+      "seed": 1947298116,
+      "version": 544,
+      "versionNonce": 15424895,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746327148500,
+      "link": null,
+      "locked": false,
+      "text": "TIMESTAMP: 00:18\n\nThis data can be used to\nunderstand\n\n1. how users interact with your\ndigital properties.\n2. improve your marketing and\nbusiness decisions",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "mcvb9LfumypNL6cBrujwQ",
+      "originalText": "TIMESTAMP: 00:18\n\nThis data can be used to understand\n\n1. how users interact with your digital properties.\n2. improve your marketing and business decisions",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "LwvMhJ-YyI8vXBGuQVKtG",
+      "type": "arrow",
+      "x": 696.7320952239857,
+      "y": 273.6496799287429,
+      "width": 166.38872166255908,
+      "height": 1.5272320031728555,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": null,
+      "seed": 1683275716,
+      "version": 554,
+      "versionNonce": 1322344767,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746327148499,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          166.38872166255908,
+          1.5272320031728555
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "_WpABxLDlO238rxeJsgyv",
+        "focus": -0.6792537560305958,
+        "gap": 6.049940064739758
+      },
+      "endBinding": {
+        "elementId": "mcvb9LfumypNL6cBrujwQ",
+        "focus": 0.6010535310384363,
+        "gap": 7.2274034352601575
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "r52cSKzGF0Hj23GrfT_H8",
+      "type": "rectangle",
+      "x": 868.75,
+      "y": 524.9602162266623,
+      "width": 266.703125,
+      "height": 313,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aD",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1516535164,
+      "version": 301,
+      "versionNonce": 1403547217,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "SM3zKahojMDmHSb6SJ_z5"
+        },
+        {
+          "id": "clEkTvcIRynCKvWALPruR",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1746327157743,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "SM3zKahojMDmHSb6SJ_z5",
+      "type": "text",
+      "x": 873.75,
+      "y": 530.2602162266622,
+      "width": 252.41580200195312,
+      "height": 302.40000000000003,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": null,
+      "seed": 946826748,
+      "version": 950,
+      "versionNonce": 580156209,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746327174640,
+      "link": null,
+      "locked": false,
+      "text": "TIMESTAMP: 00:25\n\nIf you run a business that uses\nwebsite or mobile app.\n\nyou may want to know things like \n1. how your users interact with\nyour website or app.\n2. the effectiveness of your\nmarketing campaigns.\n3. which content is the most\nhelpful in achieving business goals\n4. and how users find your website\nor app",
+      "fontSize": 16,
+      "fontFamily": 6,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "r52cSKzGF0Hj23GrfT_H8",
+      "originalText": "TIMESTAMP: 00:25\n\nIf you run a business that uses website or mobile app.\n\nyou may want to know things like \n1. how your users interact with your website or app.\n2. the effectiveness of your marketing campaigns.\n3. which content is the most helpful in achieving business goals\n4. and how users find your website or app",
+      "autoResize": true,
+      "lineHeight": 1.35
+    },
+    {
+      "id": "clEkTvcIRynCKvWALPruR",
+      "type": "arrow",
+      "x": 895.9273391030234,
+      "y": 461.20399385709305,
+      "width": 0.01938902367578521,
+      "height": 56.01288554006493,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aF",
+      "roundness": null,
+      "seed": 1484550468,
+      "version": 237,
+      "versionNonce": 266907409,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1746327155773,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.01938902367578521,
+          56.01288554006493
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "mcvb9LfumypNL6cBrujwQ",
+        "focus": 0.7953307146288582,
+        "gap": 6.25018201218678
+      },
+      "endBinding": {
+        "elementId": "r52cSKzGF0Hj23GrfT_H8",
+        "focus": -0.7953307165036031,
+        "gap": 10.380278039695552
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
