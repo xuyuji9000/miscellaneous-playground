@@ -59,3 +59,19 @@ val trafficAction = when {
 }
 
 println(trafficAction)
+
+// 3. For
+
+println("--- For ---")
+
+for ( number in 1..5) {
+    print(number)
+}
+println()
+
+// collections can also be iterated over by loops
+val cakes = listOf("carrot", "cheese", "chocolate")
+
+for (cake in cakes) {
+    println("Yummy, it's a $cake cake!")
+}
