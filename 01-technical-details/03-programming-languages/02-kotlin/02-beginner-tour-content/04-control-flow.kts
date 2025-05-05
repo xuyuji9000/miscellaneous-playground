@@ -75,3 +75,27 @@ val cakes = listOf("carrot", "cheese", "chocolate")
 for (cake in cakes) {
     println("Yummy, it's a $cake cake!")
 }
+
+// 4. While
+
+println("--- While ---")
+
+var cakesEaten = 0
+
+while (cakesEaten < 3) {
+    
+    println("Eat a cake")
+
+    cakesEaten++
+}
+
+
+// do-while
+var cakesBaked = 0
+
+do {
+    println("Bake a cake")
+    cakesBaked++  
+} while (cakesBaked < cakesEaten)
+
+
