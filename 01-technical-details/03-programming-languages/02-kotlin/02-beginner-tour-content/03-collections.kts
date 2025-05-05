@@ -46,3 +46,51 @@ println(fruit)
 fruit.remove("dragonfruit")
 println(fruit)
     
+
+// 3. Map
+
+println("--- Map ---")
+
+// readonly map
+val readOnlyJuiceMenu = mapOf(
+    "apple"  to 100,
+    "kiwi"   to 190,
+    "orange" to 100
+)
+
+println(readOnlyJuiceMenu)
+
+// mutable map with explicit type declaration
+val juiceMenu: MutableMap<String, Int> = mutableMapOf(
+    "apple"  to 100,
+    "kiwi"   to 190,
+    "orange" to 100
+)
+println(juiceMenu)
+
+// use 'indexed access operator' to access a value in a map
+println("the value of the apple juice is ${juiceMenu["apple"]}")
+println("the value of the pineapple juice is ${juiceMenu["pineapple"]}")
+
+// use 'indexed access operator' to add items to a mutable map
+juiceMenu["coconut"] = 150
+println(juiceMenu)
+
+// remove item from a mutable map
+juiceMenu.remove("coconut")
+println(juiceMenu)
+
+// get the number of items in a map
+println("this map has ${readOnlyJuiceMenu.count()} key-value pairs")
+
+// check if a specific key already in a map
+println(readOnlyJuiceMenu.containsKey("kiwi"))
+
+// to obtain a collectiion of the keys or values from the map
+println(readOnlyJuiceMenu.keys)
+println(readOnlyJuiceMenu.values)
+
+// to check a key or value in a map
+println("orange" in readOnlyJuiceMenu.keys)
+println("orange" in readOnlyJuiceMenu)
+println(200 in readOnlyJuiceMenu.values)
