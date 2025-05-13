@@ -19,9 +19,11 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             HappyBirthdayTheme {
-                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+                Scaffold(
+                    modifier = Modifier.fillMaxSize()
+                ) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        message = "Happy Birthday Karl!",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
@@ -31,17 +33,17 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
+fun Greeting(message: String, modifier: Modifier = Modifier) {
     Text(
-        text = "Hello $name!",
+        text = message,
         modifier = modifier
     )
 }
 
 @Preview(showBackground = true)
 @Composable
-fun GreetingPreview() {
+fun BirthdayCardPreview() {
     HappyBirthdayTheme {
-        Greeting("Android")
+        Greeting("Happy Birthday Karl!")
     }
 }
