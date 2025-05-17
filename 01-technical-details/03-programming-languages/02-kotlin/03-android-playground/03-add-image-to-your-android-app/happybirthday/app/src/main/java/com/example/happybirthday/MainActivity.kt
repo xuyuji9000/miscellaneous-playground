@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     GreetingImage(
                         message = stringResource(R.string.happy_birthday_karl),
-                        from = "from Emma"
+                        from = stringResource(R.string.signature_text)
                     )
                 }
             }
@@ -106,7 +106,7 @@ fun BirthdayCardPreview() {
     HappyBirthdayTheme {
         GreetingImage(
             message = stringResource(R.string.happy_birthday_karl),
-            from = "from Emma"
+            from = stringResource(R.string.signature_text)
         )
     }
 }
