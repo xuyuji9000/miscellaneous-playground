@@ -1,0 +1,87 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "7o1UNko_wWAeda0e3wlDB",
+      "type": "rectangle",
+      "x": 330.9296875,
+      "y": 189.6328125,
+      "width": 796.18359375,
+      "height": 510,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 891192069,
+      "version": 283,
+      "versionNonce": 1930748779,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "rzBed0PR1r0Z_e0O9-gm8"
+        }
+      ],
+      "updated": 1748768628785,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "rzBed0PR1r0Z_e0O9-gm8",
+      "type": "text",
+      "x": 335.9296875,
+      "y": 244.6328125,
+      "width": 728,
+      "height": 400,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1V",
+      "roundness": null,
+      "seed": 71153323,
+      "version": 637,
+      "versionNonce": 158929163,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1748768627444,
+      "link": null,
+      "locked": false,
+      "text": "// 1. s_client\n// 模拟简单的SSL/TLS客户端\n\n// 2. -connect google.com:443\n// 指定需要连接的主机和端口\n\n// 3. -servername google.com\n// 这是TLS 扩展 SNI (Server Name Indication) 的功能\n// 同一个 IP 地址有可能托管多个域名，客户端有可能无法获得正确的证书\n// SNI 允许客户端在握手阶段就发送主机名,这样服务器就能返回正确的域名证书\n\nopenssl s_client        \\\n-connect google.com:443 \\\n-servername google.com\n\n",
+      "fontSize": 20,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "7o1UNko_wWAeda0e3wlDB",
+      "originalText": "// 1. s_client\n// 模拟简单的SSL/TLS客户端\n\n// 2. -connect google.com:443\n// 指定需要连接的主机和端口\n\n// 3. -servername google.com\n// 这是TLS 扩展 SNI (Server Name Indication) 的功能\n// 同一个 IP 地址有可能托管多个域名，客户端有可能无法获得正确的证书\n// SNI 允许客户端在握手阶段就发送主机名,这样服务器就能返回正确的域名证书\n\nopenssl s_client        \\\n-connect google.com:443 \\\n-servername google.com\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
