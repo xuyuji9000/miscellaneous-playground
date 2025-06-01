@@ -1,0 +1,87 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "http://localhost:3000",
+  "elements": [
+    {
+      "id": "s5dp5z5zADjKrj2NdP3zs",
+      "type": "rectangle",
+      "x": 154.965423961777,
+      "y": -132.15072953029517,
+      "width": 1419.6154413957895,
+      "height": 2160,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1507476339,
+      "version": 387,
+      "versionNonce": 504047251,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "UbUQ2vMMF8fMKhqTH5zvs"
+        }
+      ],
+      "updated": 1748765878696,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "UbUQ2vMMF8fMKhqTH5zvs",
+      "type": "text",
+      "x": 159.965423961777,
+      "y": -127.15072953029517,
+      "width": 1353,
+      "height": 2150,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1V",
+      "roundness": null,
+      "seed": 699055347,
+      "version": 629,
+      "versionNonce": 541048595,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1748765887293,
+      "link": null,
+      "locked": false,
+      "text": "curl -v https://google.com 2>&1\n\n// output\nkarlxu@Karls-MacBook-Pro excalidraw % curl -v https://google.com 2>&1\n\n// Step 1.\n// DNS解析\n* Host google.com:443 was resolved.\n\n// Step 2.\n// 建立连接\n* IPv6: (none)\n* IPv4: 198.18.0.35\n*   Trying 198.18.0.35:443...\n* Connected to google.com (198.18.0.35) port 443\n\n// Step 3. \n// TLS握手\n* ALPN: curl offers h2,http/1.1\n* (304) (OUT), TLS handshake, Client hello (1):\n*  CAfile: /etc/ssl/cert.pem\n*  CApath: none\n* (304) (IN), TLS handshake, Server hello (2):\n* (304) (IN), TLS handshake, Unknown (8):\n* (304) (IN), TLS handshake, Certificate (11):\n* (304) (IN), TLS handshake, CERT verify (15):\n* (304) (IN), TLS handshake, Finished (20):\n* (304) (OUT), TLS handshake, Finished (20):\n* SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256 / [blank] / UNDEF\n* ALPN: server accepted h2\n\n// Step 4.\n// 服务器证书验证\n* Server certificate:\n*  subject: CN=*.google.com\n*  start date: May 12 08:43:08 2025 GMT\n*  expire date: Aug  4 08:43:07 2025 GMT\n*  subjectAltName: host \"google.com\" matched cert's \"google.com\"\n*  issuer: C=US; O=Google Trust Services; CN=WE2\n*  SSL certificate verify ok.\n\n// Step 5.\n// HTTP/2 请求\n\n* using HTTP/2\n* [HTTP/2] [1] OPENED stream for https://google.com/\n* [HTTP/2] [1] [:method: GET]\n* [HTTP/2] [1] [:scheme: https]\n* [HTTP/2] [1] [:authority: google.com]\n* [HTTP/2] [1] [:path: /]\n* [HTTP/2] [1] [user-agent: curl/8.7.1]\n* [HTTP/2] [1] [accept: */*]\n> GET / HTTP/2\n> Host: google.com\n> User-Agent: curl/8.7.1\n> Accept: */*\n> \n* Request completely sent off\n\n// Step 6.\n// 服务器响应\n\n< HTTP/2 301 \n< location: https://www.google.com/\n< content-type: text/html; charset=UTF-8\n< content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-GOT6WQXqwF_Sl4zr6W-Xqg' 'strict-\ndynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp\n< date: Sun, 01 Jun 2025 08:08:33 GMT\n< expires: Tue, 01 Jul 2025 08:08:33 GMT\n< cache-control: public, max-age=2592000\n< server: gws\n< content-length: 220\n< x-xss-protection: 0\n< x-frame-options: SAMEORIGIN\n< alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000\n< \n<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<TITLE>301 Moved</TITLE></HEAD><BODY>\n<H1>301 Moved</H1>\nThe document has moved\n<A HREF=\"https://www.google.com/\">here</A>.\n</BODY></HTML>\n\n// Step 7.\n// 连接关闭\n* Connection #0 to host google.com left intact",
+      "fontSize": 20,
+      "fontFamily": 8,
+      "textAlign": "left",
+      "verticalAlign": "middle",
+      "containerId": "s5dp5z5zADjKrj2NdP3zs",
+      "originalText": "curl -v https://google.com 2>&1\n\n// output\nkarlxu@Karls-MacBook-Pro excalidraw % curl -v https://google.com 2>&1\n\n// Step 1.\n// DNS解析\n* Host google.com:443 was resolved.\n\n// Step 2.\n// 建立连接\n* IPv6: (none)\n* IPv4: 198.18.0.35\n*   Trying 198.18.0.35:443...\n* Connected to google.com (198.18.0.35) port 443\n\n// Step 3. \n// TLS握手\n* ALPN: curl offers h2,http/1.1\n* (304) (OUT), TLS handshake, Client hello (1):\n*  CAfile: /etc/ssl/cert.pem\n*  CApath: none\n* (304) (IN), TLS handshake, Server hello (2):\n* (304) (IN), TLS handshake, Unknown (8):\n* (304) (IN), TLS handshake, Certificate (11):\n* (304) (IN), TLS handshake, CERT verify (15):\n* (304) (IN), TLS handshake, Finished (20):\n* (304) (OUT), TLS handshake, Finished (20):\n* SSL connection using TLSv1.3 / AEAD-CHACHA20-POLY1305-SHA256 / [blank] / UNDEF\n* ALPN: server accepted h2\n\n// Step 4.\n// 服务器证书验证\n* Server certificate:\n*  subject: CN=*.google.com\n*  start date: May 12 08:43:08 2025 GMT\n*  expire date: Aug  4 08:43:07 2025 GMT\n*  subjectAltName: host \"google.com\" matched cert's \"google.com\"\n*  issuer: C=US; O=Google Trust Services; CN=WE2\n*  SSL certificate verify ok.\n\n// Step 5.\n// HTTP/2 请求\n\n* using HTTP/2\n* [HTTP/2] [1] OPENED stream for https://google.com/\n* [HTTP/2] [1] [:method: GET]\n* [HTTP/2] [1] [:scheme: https]\n* [HTTP/2] [1] [:authority: google.com]\n* [HTTP/2] [1] [:path: /]\n* [HTTP/2] [1] [user-agent: curl/8.7.1]\n* [HTTP/2] [1] [accept: */*]\n> GET / HTTP/2\n> Host: google.com\n> User-Agent: curl/8.7.1\n> Accept: */*\n> \n* Request completely sent off\n\n// Step 6.\n// 服务器响应\n\n< HTTP/2 301 \n< location: https://www.google.com/\n< content-type: text/html; charset=UTF-8\n< content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-GOT6WQXqwF_Sl4zr6W-Xqg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other-hp\n< date: Sun, 01 Jun 2025 08:08:33 GMT\n< expires: Tue, 01 Jul 2025 08:08:33 GMT\n< cache-control: public, max-age=2592000\n< server: gws\n< content-length: 220\n< x-xss-protection: 0\n< x-frame-options: SAMEORIGIN\n< alt-svc: h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000\n< \n<HTML><HEAD><meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<TITLE>301 Moved</TITLE></HEAD><BODY>\n<H1>301 Moved</H1>\nThe document has moved\n<A HREF=\"https://www.google.com/\">here</A>.\n</BODY></HTML>\n\n// Step 7.\n// 连接关闭\n* Connection #0 to host google.com left intact",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff",
+    "lockedMultiSelections": {}
+  },
+  "files": {}
+}
