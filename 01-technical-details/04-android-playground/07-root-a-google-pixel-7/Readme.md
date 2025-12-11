@@ -1,5 +1,8 @@
 Find the images [here](https://developers.google.com/android/images).
 
+The current Build number on my Google Pixel 7
+- BP4A.251205.006
+
 
 # Reference
 
