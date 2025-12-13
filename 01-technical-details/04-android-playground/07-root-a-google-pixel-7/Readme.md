@@ -1,9 +1,22 @@
 # Introduction
 
+## Step 1. Download the image of the phone Model
+
+
+| **Field**                | **Value**       |
+|:-------------------------|:----------------|
+| **Phone model**          | Google Pixel 7  |
+| **Current Build Number** | BP4A.251205.006 |
+
+
 You can find the images [here](https://developers.google.com/android/images).
 
-The current Build number on my Google Pixel 7
-- BP4A.251205.006
+
+
+## Step 2. Install magisk
+Download the [magisk](https://github.com/topjohnwu/Magisk) apk.
+
+
 
 
 
