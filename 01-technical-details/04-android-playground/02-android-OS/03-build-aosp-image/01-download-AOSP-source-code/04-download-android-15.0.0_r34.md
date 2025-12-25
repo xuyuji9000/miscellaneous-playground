@@ -2,7 +2,7 @@
 Download aosp source code for branch "android-15.0.0_r34".
 
 Getting this branch, because latest downloadable proprietary driver.
-is "[BP1A.250505.005.B1](https://developers.google.com/android/drivers#cheetahbp1a.250505.005.b1)" .
+is "[BP1A.250505.005.B1](https://developers.google.com/android/drivers#pantherbp1a.250505.005.b1)" .
 
 and this BP1A.250505.005.B1 driver corresponds to "[android-15.0.0_r34](https://android.googlesource.com/platform/frameworks/base/+/refs/tags/android-15.0.0_r34)" branch.
 
