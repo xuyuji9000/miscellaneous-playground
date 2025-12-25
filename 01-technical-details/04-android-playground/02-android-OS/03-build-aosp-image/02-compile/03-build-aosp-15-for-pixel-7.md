@@ -1,5 +1,5 @@
 # Introduction
-Build aosp with branch 'android-15.0.0_r34' source code \
+Build aosp 15 with branch 'android-15.0.0_r34' source code \
 for google pixel 7.
 
 
@@ -14,6 +14,8 @@ Download [BP1A.250505.005.B1](https://developers.google.com/android/drivers#pant
 - CPU     : 32 core
 - Memory  : 128GB
 - Storage : 1TB
+
+Estimated Build Time: 45 to 65 minutes
 
 3. Relax AppArmor kernel restrictions
 ``` shell
